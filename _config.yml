@@ -18,22 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Nicky Smith Proofreading
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/my-website" # the subpath of your site, e.g. /blog
+  Excellent, reliable proofreading to free up your valuable time.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nickpax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: proofreader
+github_username:  
 
 # Build settings
 # Removed Minima theme and now using regular theme
 # theme: minima
 plugins:
   - jekyll-feed
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +53,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+collections:
+  structures:
+    output: true
+    permalink: "/structures/:slug/"
+    order:
+      - connecting-words.md
+      - the-elements-of-the-language.md
+      - gerund.md
+      - verb-phrase.md
+      - verbal.md
+      - infinitive.md
+      - participle.md
+    
+  
+    

@@ -7,8 +7,34 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  <section class="top-banner-section">
 
+    <div class="banner-image-div">
+
+        <img src="hero-image.jpg" alt="banner banner-image-div" class="banner-image">
+    </div>
+        
+        <div class="banner-overlay-div"></div>
+
+        <div class="banner-text-div"> 
+
+            <span class="banner-text">
+                <p class="banner-h1-text">Proofreading for Pros</p>
+                <p class="banner-body-text">Eagle eyes</p>
+                <p class="banner-btn"><a href="https://www.bbc.com" class="banner-btn-item">Get started &#8594;</a></p>
+            </span>
+  
+        </div>
+
+</section>
+
+
+
+
+  {{ content }}
+<!--
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
@@ -27,6 +53,7 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+  -->
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
