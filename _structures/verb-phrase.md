@@ -9,4 +9,4 @@ Verb phrases are the main verb and any helping words, e.g.:
   * has been
   
 
-  <a href="/structures/the-elements-of-the-language">Back to The Elements of the Language</a>
+  <a href="{{site.baseurl}}/structures/the-elements-of-the-language">Back to The Elements of the Language</a>

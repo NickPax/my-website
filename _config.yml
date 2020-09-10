@@ -59,14 +59,7 @@ collections:
   structures:
     output: true
     permalink: "/structures/:slug/"
-    order:
-      - connecting-words.md
-      - the-elements-of-the-language.md
-      - gerund.md
-      - verb-phrase.md
-      - verbal.md
-      - infinitive.md
-      - participle.md
+   
     
   
     

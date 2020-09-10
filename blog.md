@@ -5,4 +5,4 @@ permalink: /blog/
 ---
 
 
-## [Sentence Structure](/structures)
+## [Sentence Structure]({{site.baseurl}}/structures)
