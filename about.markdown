@@ -16,3 +16,17 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+\>blockquote
+>blockquote  
+
+
+
+\# Apply the class “green” to this heading  
+\{: .green}
+
+# Apply the class “green” to this heading  
+{: .green}
+
+I want to wrap \**this text** in a strong tag and \*this text* in an emphasis tag.  
+I want to wrap **this text** in a strong tag and *this text* in an emphasis tag

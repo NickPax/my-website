@@ -1,12 +1,19 @@
 ---
 layout: structure
 title: Connecting words
-date: 2020-09-08
 ---
+[Relative Pronoun]({{site.baseurl}}/structures/relative-pronoun)  
+[Coordinate Conjunctions]({{site.baseurl}}/structures/coordinate-conjunctions)  
+[Subordinate Conjunction]({{site.baseurl}}/structures/subordinate-conjunction)  
+[Conjunctive Adverb]({{site.baseurl}}/structures/conjunctive-adverb)  
 
-Conjunction - general term meaning a word that connects other words, phrases and clauses.
 
-<a href="{{site.baseurl}}/structures/the-elements-of-the-language">Back to The Elements of the Language</a>
+<br/>
+<br/>
+<br/>
+
+
+<a href="{{site.baseurl}}/structures">Back to Sentence Structure</a>
 
 
 

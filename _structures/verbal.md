@@ -1,14 +1,35 @@
 ---
 layout: structure
-title: Verbal
+title: Verbal Phrase
 ---
 
-A verbal is the verb form, but it's used as another form of speech.
+* A verbal is a verb form used as another part of speech, e.g.:  
+adjectives  
+nouns  
+adverbs  
 
-They are used as these:
 
-* adjective
-* noun
-* adverb
+* The three forms of the verbal are as follows:  
+Gerund  (can be subject, predicate nominative, direct object, or object of a preposition)  
+Infinitive (used as a noun, adjective, or adverb)   
+participle  (used as an adjective to modify nouns and pronouns)  
+<br/>  
 
-<a href="{{site.baseurl}}/structures/the-elements-of-the-language">Back to The Elements of the Language</a>
+
+Examples:  
+
+Do you mind *my <ins>asking</ins> how you knew*?  (...)  
+I want <ins>to take</ins> it back to the store. (...)  
+<ins>Having found</ins> the solution, the team celebrated. (Participle adjective modifing the team)   
+
+
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Elements of the Language]({{site.baseurl}}/structures/the-elements-of-the-language)

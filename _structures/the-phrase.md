@@ -1,8 +1,25 @@
 ---
 layout: structure
-title: Phrase
+title: The Phrase
 ---
 
-The phrase
+* Has no subject and verb.  
+* Has a function in the sentence.  
 
-<a href="{{site.baseurl}}/structures/the-elements-of-the-language">Back to The Elements of the Language</a>
+<br>
+
+There are three types:  
+[Verb phrase]({{site.baseurl}}/structures/verb-phrase)  
+[Verbal phrase]({{site.baseurl}}/structures/verbal)  
+[Prepositional phrase]({{site.baseurl}}/structures/prepositional-phrase)  
+
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Elements of the Language]({{site.baseurl}}/structures/the-elements-of-the-language)
