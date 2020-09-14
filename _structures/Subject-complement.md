@@ -36,4 +36,18 @@ She looks amazingly.
 She looks amazing. 
 
 
+Previous Page Next Page
+
+When two words, clauses, or phrases stand close together and share the same part of the sentence, they are in apposition and are called appositives.
+
+In fact, an appositive is very much like a subject complement—without the linking verb:
+
+Subject complement
+My brother is a research associate.
+Appositive
+My brother the research associate works at a large polling firm.
+Subject complement
+Jean became a magistrate.
+Appositive
+I have never met Jean the magistrate
 
