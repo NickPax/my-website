@@ -31,6 +31,7 @@ This soup tastes bad.
 My dog smells bad. 🐕 
 Ok because bad is an adjective. 
 And smells, a linking verb, links the subject, dog, with the adjective bad.   
+we can't use an adverb, such as badly, as a subject complement.  
 
 Issue 2) You can say "It is I" or "It is me."
 Those who insist on writing "It is I" or "It was he" have tradition on their side because subject complements were traditionally written in the subjective case (e.g., I, she, and he) not in the objective case (e.g, me, her and him). However, those who'd rather write "It is me" or "It was him" have common usage on their https://www.grammar-monster.com/images/Key Points
