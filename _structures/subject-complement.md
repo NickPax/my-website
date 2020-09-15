@@ -1,3 +1,9 @@
+---
+layout: structure
+title: Subject complement
+---
+
+
 Compare with appositive. 
 
 Subject complement is either. 
@@ -56,3 +62,12 @@ Jean became a magistrate.
 Appositive
 I have never met Jean the magistrate
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to Connecting Words]({{site.baseurl}}/structures/connecting-words)
