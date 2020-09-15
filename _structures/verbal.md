@@ -18,9 +18,11 @@ participle  (used as an adjective to modify nouns and pronouns)
 
 Examples:  
 
-Do you mind *my <ins>asking</ins> how you knew*?  (...)  
-I want <ins>to take</ins> it back to the store. (...)  
-<ins>Having found</ins> the solution, the team celebrated. (Participle adjective modifing the team)   
+Do you mind *my <ins>asking</ins> how you knew*?  (Gerund phrase is the object of the sentence. Possesive adjective "my" modifies the gerund (noun) "asking")  
+
+I want *<ins>to take</ins> it back to the store*. (Infinitive phrase acting as a noun. I want *this* -- to take it back to the store)  
+
+*<ins>Having found</ins> the solution*, the team celebrated. (Participle adjective phrase modifing the team)   
 
 
 
@@ -32,4 +34,4 @@ I want <ins>to take</ins> it back to the store. (...)
 <br/>
 <br/>
 
-[Back to The Elements of the Language]({{site.baseurl}}/structures/the-elements-of-the-language)
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

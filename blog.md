@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Punctuation Blog
+title: Grammar section
 permalink: /blog/
 ---
 

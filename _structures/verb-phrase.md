@@ -24,4 +24,4 @@ I <ins>have</ins> always <ins>loved</ins> you.
 <br/>
 <br/>
 
-[Back to The Elements of the Language]({{site.baseurl}}/structures/the-elements-of-the-language)
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)
