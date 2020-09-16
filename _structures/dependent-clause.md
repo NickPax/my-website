@@ -12,6 +12,7 @@ The concert finished.  ...as soon as the concert finished
 More Examples of deps:
 The elephant was set free when she recovered in October.
 >adverb clause at end of sentence, hence no commas.   
+<br/>
 [PUNCT?]bonus info: "hence here is acting like the phrase "which leads to" or "which is the reason of" so there is a comma.  
 Hence can't join two indy clauses because it normally acts as an adverb, and so it would either start a sentence or come after a semicolon.  
 
