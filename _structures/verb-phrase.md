@@ -9,8 +9,8 @@ Here are some helping words:
 did  
 have  
 has been  
-* Always more than one word.  
-* Constituent words not necessarily next to each other.
+* Verb phrases are always more than one word.  
+* The words within a verb phrase do not necessarily have to be next to each other.
 
 <br/>
 Examples:
