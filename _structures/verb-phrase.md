@@ -3,7 +3,7 @@ layout: structure
 title: Verb phrase
 ---
 
-* Verb phrases are the main verb and any helping words, e.g.:  
+* Verb phrases are the <ins>main verb<\ins> and any <ins>helping words<\ins>, e.g.:  
 did  
 have  
 has been  
