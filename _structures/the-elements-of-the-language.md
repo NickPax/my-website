@@ -9,4 +9,6 @@ date: 2020-09-09
 [The  verbal phrase]({{site.baseurl}}/structures/verbal)  
 [The  prepositional phrase]({{site.baseurl}}/structures/prepositional-phrase)  
 [The  dependent clause]({{site.baseurl}}/structures/dependent-clause)   
-[The  infinitive phrase]({{site.baseurl}}/structures/infinitive-phrase) 
+[The  infinitive phrase]({{site.baseurl}}/structures/infinitive-phrase)  
+[The  noun clause]({{site.baseurl}}/structures/noun-clause)  
+[Sentence types]({{site.baseurl}}/structures/sentence-types)

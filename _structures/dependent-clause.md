@@ -3,59 +3,92 @@ layout: structure
 title: The Dependent Clause
 ---
 
-* Has subject and verb and also an introductory word, without which an dependent clause would be a sentence
-Examples: [make a table]
-He laughed.  ...when he laughed
-It rained.   ...because it rained
-The concert finished.  ...as soon as the concert finished
+* Has a subject and verb and also an **introductory word(s)**, without which a dependent clause would be a sentence:  
 
-More Examples of deps:
-The elephant was set free when she recovered in October.
->adverb clause at end of sentence, hence no commas.   
+
+
+| He laughed. | ... **when** he laughed |  
+| It rained. | ... **because** it rained |  
+| The concert finished. | ... **as soon as** the concert finished  
+
 <br/>
-[PUNCT?]bonus info: "hence here is acting like the phrase "which leads to" or "which is the reason of" so there is a comma.  
-Hence can't join two indy clauses because it normally acts as an adverb, and so it would either start a sentence or come after a semicolon.  
 
-The elephant was set free, when she recovered in October, by the African team.
+### Examples of dependent clauses (in parentheses)  
+
+<br/>
+
+Nelly the elephant was set free (when she recovered in October).
+>adverb clause at end of sentence, hence no commas.   
+
+<br/>  
+
+
+
+Nelly the elephant was set free, (when she recovered in October), by the African team.
 >adverb clause in the middle of what it modifies, hence the commas.  
 
+<br/>
+<br/>  
 
-I met the band before the gig.
->prep phrase  
+### Note the difference between a phrase and a clause in these examples:  
 
-I met the band before they played the gig.  
+<br/>
+
+I met the band (before the gig).
+>prepositional phrase  
+
+
+<br/>
+
+
+I met the band (before they played the gig).  
 >dependent clause
 
-He has not left his house since last Friday.   
->prep phrase
-He has not left his house since he returned.  
->dep clause
 
-* watch out for the elliptical clause
--- has subject and/or verb missing.
--- but is punctuated as though they were present.
+<br/>
+
+
+He has not left his house (since last Friday).   
+>prepositional phrase  
+
+
+<br/>
+
+
+He has not left his house (since he returned).  
+>dependent clause  
+
+<br/>
+<br/>
+
+
+* With the exception of the following words --    
+
+| how | why | what | 
+  
+-- for [noun clauses]({{site.baseurl}}/structures/noun-clause), all dependent clauses begin with   
+
+| a [relative pronoun]({{site.baseurl}}/structures/relative-pronoun) or | a [subordinate conjunction]({{site.baseurl}}/structures/subordinate-conjunction) |
+
+<br>
+ 
+### The elliptical clause  
+* Has **subject** and/or **verb** missing.  
+* But is punctuated as though they were present.  
+<br/>
+
 Examples:
 
 If necessary, please call the help line.
-> If it is necessary ...  
+> If **it is** necessary ...  
 
-She types faster than I.  
-> ...faster than I do.  
+<br/>  
 
 As expected, they all went home.
-> As was expected ...
-
-* with the exeption of   
-how  
-why  
-what  
-for noun clauses, all dependent clauses begin with  
-a relative clause or  
-a subordinate conjuction
+> As **was** expected ...
 
 
-<br>
-... 
+ 
 
 
 <br/>
