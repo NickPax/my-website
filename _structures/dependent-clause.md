@@ -37,7 +37,10 @@ Dependent clauses can function as the following:
 Did he pick the one that you wanted? (modifies one)    
 
 <ins> an adverb</ins>  
-The car stopped when the lights changed.  (modifies stopped)
+The car stopped when the lights changed.  (modifies stopped)  
+
+The dependent clause is doing something. It is being the *subject* or direct object* or modifying part of the sentence.  
+
   
 
 ### Note the difference between a phrase and a clause in these examples:  
