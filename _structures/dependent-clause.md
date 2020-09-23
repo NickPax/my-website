@@ -29,6 +29,16 @@ Nelly the elephant was set free, (when she recovered in October), by the African
 
 <br/>
 <br/>  
+Dependent clauses can function as the following:  
+<ins>a noun</ins>  
+>My question is this: Where is the body?  [...]
+
+<ins> an adjective</ins>  
+Did he pick the one that you wanted? (modifies one)    
+
+<ins> an adverb</ins>  
+The car stopped when the lights changed.  (modifies stopped)
+  
 
 ### Note the difference between a phrase and a clause in these examples:  
 
