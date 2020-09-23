@@ -66,9 +66,9 @@ He has not left his house (since he returned).
 
 | how | why | what | 
   
--- for [noun clauses]({{site.baseurl}}/structures/noun-clause), all dependent clauses begin with   
+-- for noun clauses, all dependent clauses begin with   
 
-| a [relative pronoun]({{site.baseurl}}/structures/relative-pronoun) or | a [subordinate conjunction]({{site.baseurl}}/structures/subordinate-conjunction) |
+| a relative pronoun or | a subordinate conjunction |
 
 <br>
  
