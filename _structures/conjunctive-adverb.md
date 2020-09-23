@@ -6,7 +6,7 @@ title: Conjunctive Adverb
 * When at the beginning of an independent clause, it functions as a conjuction linking two clauses.
 * If it's within an independent clause it will be functioning as an adverb, parenthetically or as a modifier.
 
-Here are some common subordinate conjunctions:  
+Here are some common conjunctive adverbs:  
 
 
 | accordingly | in fact | hence |
