@@ -17,15 +17,19 @@ title: The Dependent Clause
 
 <br/>
 
-Nelly the elephant was set free (when she recovered in October).
->adverb clause at end of sentence, hence no commas.   
+Nelly the elephant was set free (when she recovered in October).  
+
+Adverb clause at end of sentence, hence no commas.
+{: .grey}   
 
 <br/>  
 
 
 
-Nelly the elephant was set free, (when she recovered in October), by the African team.
->adverb clause in the middle of what it modifies, hence the commas.  
+Nelly the elephant was set free, (when she recovered in October), by the African team.  
+
+Adverb clause in the middle of what it modifies, hence the commas.
+{: .grey} 
 
 <br/>
 <br/>  
@@ -39,7 +43,7 @@ Did he pick the one that you wanted? (modifies one)
 <ins> an adverb</ins>  
 The car stopped when the lights changed.  (modifies stopped)  
 
-The dependent clause is doing something. It is being the *subject* or direct object* or modifying part of the sentence.  
+The dependent clause is doing something. It is being the *subject* or *direct object* or modifying part of the sentence.  
 
   
 
