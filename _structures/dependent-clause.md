@@ -31,7 +31,8 @@ Nelly the elephant was set free, (when she recovered in October), by the African
 <br/>  
 Dependent clauses can function as the following:  
 <ins>a noun</ins>  
->My question is this: Where is the body?  [...]
+>My question is this: Where is the body?  (is an appositive to "this")  
+Note: "A dependent clause does not stand alone to express a complete thought" --BGGP p. 17
 
 <ins> an adjective</ins>  
 Did he pick the one that you wanted? (modifies one)    
