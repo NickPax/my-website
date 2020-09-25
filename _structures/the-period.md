@@ -65,6 +65,18 @@ mwwex: Could you pick that up for me.
 
 Can you read that first page to yourself.  
 
+* Sometimes the witness's response helps determine the meaning:  
+
+mwwex:  
+Q  Can you give me the names of all the people in the room?  
+A  No, I cannot. I do not know them.  
+
+Q  Can you give me the names of all the people in the room.  
+A  John, Charles, Marilyn, Brent, and Bruce.
+
+
+
+
 
 
 
