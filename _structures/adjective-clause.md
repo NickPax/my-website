@@ -19,3 +19,12 @@ MWW Examples:
 I was used to a company that had a full benefit package.  
 my example: She's the one I was telling you about. !!!!   
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

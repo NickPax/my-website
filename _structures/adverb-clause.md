@@ -24,3 +24,12 @@ mwwex:
 >He made the attempt even though it was difficult.  
 >He made the attempt, even though no one expected him to succeed.  
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

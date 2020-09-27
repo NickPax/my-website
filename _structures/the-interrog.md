@@ -35,3 +35,12 @@ Where were you going? is my question.
 Did you leave before the boss that day? is what I am asking.
 
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

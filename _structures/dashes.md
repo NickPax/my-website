@@ -17,3 +17,12 @@ Use a dash at the end of a sentence to rename the subject.
 Example:  
 That's his reason for leaving the door open -- to let in some fresh air.  
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

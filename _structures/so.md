@@ -15,3 +15,12 @@ SC begins clause that's used as an adverb. So punctuate accordingly.
 mww ex: It was a holiday; so we decided to take a road trip.  
 
 CA  
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

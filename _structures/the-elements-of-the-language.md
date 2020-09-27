@@ -1,14 +1,47 @@
 ---
 layout: structure
 title: The Elements of the Language
-date: 2020-09-09
 ---
 
-[The  phrase]({{site.baseurl}}/structures/the-phrase)  
+### [The  Phrase]({{site.baseurl}}/structures/the-phrase)  
 [The  verb phrase]({{site.baseurl}}/structures/verb-phrase)  
 [The  verbal phrase]({{site.baseurl}}/structures/verbal)  
 [The  prepositional phrase]({{site.baseurl}}/structures/prepositional-phrase)  
-[The  dependent clause]({{site.baseurl}}/structures/dependent-clause)   
-[The  infinitive phrase]({{site.baseurl}}/structures/infinitive-phrase)  
+[The  infinitive phrase]({{site.baseurl}}/structures/infinitive-phrase) 
+
+<br/>
+
+
+
+### [The  Dependent Clause]({{site.baseurl}}/structures/dependent-clause)   
+[The  adjective clause]({{site.baseurl}}/structures/adjective-clause)  
+[The adverb clause]({{site.baseurl}}/structures/adverb-clause)  
 [The  noun clause]({{site.baseurl}}/structures/noun-clause)  
-[Sentence types]({{site.baseurl}}/structures/sentence-types)
+
+<br/>
+
+
+### [Connecting Words]({{site.baseurl}}/structures/connecting-words)  
+[The  coordinate conjunction]({{site.baseurl}}/structures/coordinate-conjunction)  
+[The  subordinate conjunction]({{site.baseurl}}/structures/subordinate-conjunction)  
+[The conjunctive adverb]({{site.baseurl}}/structures/conjunctive-adverb)
+
+
+
+[The gerund]({{site.baseurl}}/structures/gerund)  
+[The subject complement]({{site.baseurl}}/structures/subject-complement)  
+[So]({{site.baseurl}}/structures/so)  
+
+
+
+<br/>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)
