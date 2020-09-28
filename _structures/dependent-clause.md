@@ -108,32 +108,10 @@ As expected, they all went home.
 
 ## Dashes and dependent clauses  
 
-* Use a dash or a pair of dashes when a noun clause is a nonessential appositive.  
+Use a dash or a pair of dashes when a noun clause is a nonessential appositive.  
 Example:  
 
 After the stormy weather -- great hail balls and rain -- they went outside.  
-
-* Use a dash when a noun clause at the end of a sentence is renaming the subject.  
-Example:  
-
-That was the whole point of it -- to upgrade the warp core.  
-
-## Another important point about dependent clauses  
-
-* When an adverb clause comes at the end of the sentence and is not directly related to the the part of the sentence it comes after, put a separating comma in front of it.  
-Example:  
-
-She would nearly always cry at the end of the song, although it wasn't actually a particularly sad song.  
-
-See also ...  
-
-* However when an adverb clause comes at the end of a noun clause, there is no need for punctuation.  
-Example:  
-
-What he's going to do after the meeting is anyone's guess.  
-
-
-
 
 
 
