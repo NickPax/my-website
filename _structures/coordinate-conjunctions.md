@@ -42,6 +42,7 @@ neither ... nor
  
 <br/>
 Example:   
+
 WRONG: They say that the band not only performs well but also that they write incredible tunes.  
 
 RIGHT: They say not only that the band performs well but also that they write incredible tunes.
