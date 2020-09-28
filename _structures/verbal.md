@@ -8,6 +8,16 @@ adjectives
 nouns  
 adverbs  
 
+* Consider the "ing" form of a word. It can be part of the actual verb, or predicate, of a sentence:  
+I am <ins>reading</ins> these words.  
+
+It can be a gerund, being used as a noun:  
+<ins>Reading</ins> is good for you.  
+
+It can be a present participle being used as an adjective:  
+He is a member of the <ins>reading</ins> club.  
+
+
 
 * The three forms of the verbal are as follows:  
 Gerund  (can be subject, predicate nominative, direct object, or object of a preposition)  
