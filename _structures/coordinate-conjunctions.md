@@ -8,11 +8,11 @@ Correlative coordinate
 
 ## Simple Coordinates  
 
-and  
-but  
-or  
-nor  
-for  
+  and  
+  but  
+  or  
+  nor  
+  for  
 
 * Link grammatically equal elements.   
 * "For" can only link independent clauses as a coordinate conjunction.  
