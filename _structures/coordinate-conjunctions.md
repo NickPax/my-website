@@ -16,6 +16,15 @@ for
 
 * Link grammatically equal elements.   
 * "For" can only link independent clauses as a coordinate conjunction.  
+Examples:   
+Black and white would work in here.  
+It looked kinda ok but a little bland.  
+Tea or coffee?  
+This book is not boring, nor is it difficult to read.  
+Let's get going, for we have much to see and do today.  
+
+Comma corner  
+Note the commas in the last two sentences.
 
 <br/>
 
