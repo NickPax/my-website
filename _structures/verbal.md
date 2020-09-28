@@ -8,7 +8,9 @@ adjectives
 nouns  
 adverbs  
 
-* Consider the "ing" form of a word. It can be part of the actual verb, or predicate, of a sentence:  
+* Consider the "ing" form of a word.  
+
+It can be part of the actual verb, or predicate, of a sentence:  
 I am <ins>reading</ins> these words.  
 
 It can be a gerund, being used as a noun:  
