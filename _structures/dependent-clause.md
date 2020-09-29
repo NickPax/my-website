@@ -52,28 +52,28 @@ The dependent clause is doing something. It is being the *subject* or *direct ob
 
 <br/>
 
-I met the band (before the gig).
+I met the band *before the gig*.
 >prepositional phrase  
 
 
 <br/>
 
 
-I met the band (before they played the gig).  
+I met the band *before they played the gig*.  
 >dependent clause
 
 
 <br/>
 
 
-He has not left his house (since last Friday).   
+He has not left his house *since last Friday*.   
 >prepositional phrase  
 
 
 <br/>
 
 
-He has not left his house (since he returned).  
+He has not left his house *since he returned*.  
 >dependent clause  
 
 <br/>
@@ -97,21 +97,62 @@ He has not left his house (since he returned).
 
 Examples:
 
-If necessary, please call the help line.
+*If necessary*, please call the help line.
 > If **it is** necessary ...  
 
 <br/>  
 
-As expected, they all went home.
+*As expected*, they all went home.
 > As **was** expected ...
 
 
-## Dashes and dependent clauses  
+### Dashes and dependent clauses  
 
 Use a dash or a pair of dashes when a noun clause is a nonessential appositive.  
+
 Example:  
 
+You are forgetting one thing -- that the car was still running.
+
 After the stormy weather -- great hail balls and rain -- they went outside.  
+
+When a noun clause is used to rename the subject at the end of a sentence, use a dash.  
+
+Example:  
+
+This is the most important fact in this evidence -- that the extension period had elapsed.
+
+### Other points about dependent clauses  
+
+An adverb clause at the end of a sentence usually does not require punctuation.  
+
+Example:  
+
+He looked up because of the noise it made.  
+
+HOWEVER ...  
+
+If the adverb clause is not directly related to the content of the part of the sentence in which it is used, add a comma.  
+
+Examples:  
+
+The firm has a no-smoking policy throughout the campus, even though no one really smokes these days.  
+
+The team had organised a huge ad hoarding and placed the content in full view, although you couldn't really see it.  
+
+SEE ALSO HERE  
+
+
+
+
+
+
+
+(In general writing, dashes also emphasize what comes next.)  
+
+
+
+
 
 
 
