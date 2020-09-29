@@ -150,7 +150,7 @@ Examples:
 
 The firm has a no-smoking policy throughout the campus, even though no one really smokes these days.  
 
-The team had organised a huge ad hoarding and placed the content in full view, although you couldn't really see it.  
+The team had organised a huge ad hoarding and placed the content in full view, although you couldn't really see it because the font was too small.  
 
 SEE ALSO HERE  
 
