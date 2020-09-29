@@ -75,7 +75,16 @@ Q  Can you give me the names of all the people in the room.
 A  John, Charles, Marilyn, Brent, and Bruce.
 
 
+### Okay, all right, very well, etc.  
 
+When such words come at the beginning of a sentence, place a period after them, even if there are several strung together. Also use a period when they come at the end of the sentence as a complete thought.  
+
+Examples: mwwex:  
+
+Okay. What happened next?  
+All right. Very well. Please tell me more about what happened that day after you got the letter.
+
+... comma corner -- note no comma before the prepositional clause at the ...
 
 
 
