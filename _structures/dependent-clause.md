@@ -130,6 +130,14 @@ Example:
 
 He looked up because of the noise it made.  
 
+And when the adverb clause comes after a noun clause -- even in the middle of a sentence -- add no punctuation.  
+
+Example: 
+
+Where he went *after the meeting* nobody knows.  
+
+
+
 HOWEVER ...  
 
 If the adverb clause is not directly related to the content of the part of the sentence in which it is used, add a comma.  
