@@ -1,3 +1,9 @@
+---
+layout: structure
+title: Subject complement
+---
+
+
 Compare with appositive. 
 
 Subject complement is either. 

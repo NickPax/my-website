@@ -1,4 +1,6 @@
 ---
+layout: structure
+title: The Question mark
 ---
 
 mww Put the interrog where the question is *first* asked.  

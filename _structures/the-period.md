@@ -1,5 +1,7 @@
 ---
----  
+layout: structure
+title: The period
+---
 
 
 ## Yes and No  

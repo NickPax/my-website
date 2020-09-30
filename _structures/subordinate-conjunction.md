@@ -1,7 +1,8 @@
 ---
 layout: structure
 title: Subordinate Conjunction
----
+---  
+
 * Links a dependent clause of which it is a part to an independent clause.    
 * Most begin dependent clauses that function as adverbs.    
 * Some can begin noun or adjective clauses.    

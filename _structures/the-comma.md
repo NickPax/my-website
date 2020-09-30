@@ -1,4 +1,6 @@
---- 
+---
+layout: structure
+title: SentenThe comma
 ---
 
 * Use a comma in the following situations:  
@@ -43,3 +45,12 @@ Anytime for clarity.
 mwwex: Before, he worked for charity.  
 I think not, since he has to be here anyway.  
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)

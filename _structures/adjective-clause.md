@@ -1,4 +1,6 @@
 ---
+layout: structure
+title: The adjective clause
 ---
 
 Answers the questions which one? or what? about the noun or pronoun it modifies.  

@@ -1,3 +1,9 @@
+---
+layout: structure
+title: So
+---
+
+
 So can function as either one of the following:  
 * an adverb  
 * a conjuction (either a subordinate conjunction or a conjunctive adverb)  

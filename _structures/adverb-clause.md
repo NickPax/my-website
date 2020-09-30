@@ -1,20 +1,24 @@
 ---
----  
+layout: structure
+title: The adverb clause
+---
 
-Answers question when? wheere? why? how?  
+Answers question when? where? why? how?  
 
 mwwex: I sent that email so that she and I could maybe talk about the problem.  
 
 Always begins with a subordinate conjunction.  
 
-## comma talk  
+#### Comma Talk  
 
-If the clause is not directly related to the content it can take a comma before it.  
+If the clause is **not directly related to the content**, it can take a comma before it.  
 Here are common words starting such a clause:  
-[table]  
 
-though as though even if if 
-although even though as if  
+
+| though | as though | although |
+| even though | as if | even if |
+| if |  
+
 
 mwwex:  
 # compare these:  
