@@ -1,6 +1,6 @@
 ---
 layout: structure
-title: SentenThe comma
+title: The comma
 ---
 
 * Use a comma in the following situations:  
