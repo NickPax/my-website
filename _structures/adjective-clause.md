@@ -21,6 +21,19 @@ MWW Examples:
 I was used to a company that had a full benefit package.  
 my example: She's the one I was telling you about. !!!!   
 
+
+When an adjective clause is far away from the word if modifies in a sentence, use commas for clarity.  
+
+Examples:  
+mwwex  
+The bank on the corner near my apartment in the city, which has been robbed three times, was just hit again.  
+
+I saw a man near the corner just a few seconds before the accident, who was running into the street.  
+
+The agreement between the two parties at the inception of the partnership, which did not contain a valid signature, was null and void.  
+
+
+
 <br/>
 <br/>
 
