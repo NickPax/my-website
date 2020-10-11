@@ -3,8 +3,17 @@ layout: structure
 title: Conjunctive Adverb
 ---
 
-* When at the beginning of an independent clause, it functions as a conjuction linking two clauses.
-* If it's within an independent clause it will be functioning as an adverb, parenthetically or as a modifier.
+* When at the beginning of an independent clause, it functions as a conjunction linking two clauses.  
+
+>The computer is not switched on; therefore, it will not work.   
+
+
+* If it's within an independent clause it will be functioning as an adverb, parenthetically or as a modifier.  
+
+>The computer, however, was not switched on.
+
+<br/>
+
 
 Here are some common conjunctive adverbs:  
 
@@ -17,11 +26,8 @@ Here are some common conjunctive adverbs:
 | however | otherwise | thus |
 | in addition | therefore | yet | 
 
-<br/>
 
-Examples:  
-As a conjuction: The computer is not switched on; therefore, it will not work.  
-And parenthetically: The computer, however, was not switched on. 
+
 
  
 

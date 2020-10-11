@@ -26,7 +26,45 @@ You can find the source code for Jekyll at GitHub:
 \{: .green}
 
 # Apply the class “green” to this heading  
-{: .green}
+{: .green}  
+
+<br/>
+
+
+\# Apply the class “greybg” to this heading  
+\{: .greybg}
+
+# Apply the class “greybg” to this heading 
+{: .greybg}
+
+
+\# Apply the class “greybg” to this heading
+and also this text in a div.  
+\{: .greybg}  
+
+<div style="background-color: #F8F8F8">
+<p>Apply the class very light grey (F8F8F8) to this 
+and also this text in a div.</p>
+
+<p>And then this too.  lkjfdglkjdfglkjdfglkjdfg lkfg lkjfglkd lkgfdlkdf lkjdflgk lkfgdlkdf </p>
+
+
+;kjdfjkd. lkjdfglkdsf lkgdflkjdf lkdlfkgjdklfj dfgdfgdfgdfglkj kdjg;fdmkldfnlklk;mdf.  
+
+</div>
+
+<br/>
+<br/>
+
 
 I want to wrap \**this text** in a strong tag and \*this text* in an emphasis tag.  
-I want to wrap **this text** in a strong tag and *this text* in an emphasis tag
+I want to wrap **this text** in a strong tag and *this text* in an emphasis tag  
+
+<br/>  
+
+ \<span style="color:red">some **This is Red Bold.** text</span>
+
+<span style="color:red">some **This is Red Bold.** text</span>
+
+<br/>  
+

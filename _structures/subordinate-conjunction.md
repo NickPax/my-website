@@ -3,9 +3,48 @@ layout: structure
 title: Subordinate Conjunction
 ---  
 
-* Links a dependent clause of which it is a part to an independent clause.    
-* Most begin dependent clauses that function as adverbs.    
-* Some can begin noun or adjective clauses.    
+
+* Links a dependent clause of which it is a part to an independent clause.  
+
+Let's go ***as soon as** they arrive*.  
+{: .greybg}
+<br>
+* Most subordinate conjunctions begin dependent clauses that function as adverbs.  
+
+Flowers bloom ***when** spring arrives*.  
+{: .greybg}
+<br>
+
+* Some subordinate conjunctions can begin noun or adjective clauses.    
+Many noun clauses begin with **that**.  
+
+I can see ***that** you're fine now*. [direct object]  
+{: .greybg}
+<br>
+
+* Sometimes, **that** can be left out:  
+
+I can see *you're fine now*.  
+{: .greybg}
+<br>
+# Subordinate conjunctions beginning noun phrases acting as different parts of speech:  
+
+***Where** we go tomorrow* is up to you. [subject]  
+
+Can you see ***which** one is flashing*? [indirect object]  
+
+Let's talk about ***how** quickly you covered the area last Tuesday night*. [object of preposition]
+
+Your assumption ***that** Jordy hid the files* is incorrect. [appositive]
+
+The problem is ***that** we're lost*. [subject complement]
+
+They announced the winner ***whoever** got back first*. [object complement]
+
+Call me ***whatever** you want*. [object complement]
+
+
+
 <br/>
 
 
@@ -23,9 +62,11 @@ Here are some common subordinate conjunctions:
 <br/>  
 
 Examples:  
-I like red (<ins>whereas</ins> you like yellow).    
-It was quite hot (<ins>although</ins> it was raining).
->Note: These sentences do not contain commas! But check below for when there are commas before these words.
+   
+It was quite hot (<ins>although</ins> it was raining).  
+
+
+Note: These sentences do not contain commas! But check below for when there are commas before these words.
 
 <br/>
 <br/>
