@@ -22,4 +22,4 @@ There are three types:
 <br/>
 <br/>
 
-[Back to The Elements of the Language]({{site.baseurl}}/structures/the-elements-of-the-language)
+[Back to Sentence structure]({{site.baseurl}}/structures/sentence-structure)

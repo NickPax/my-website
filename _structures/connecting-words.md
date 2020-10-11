@@ -13,7 +13,7 @@ title: Connecting words
 <br/>
 
 
-<a href="{{site.baseurl}}/structures">Back to Sentence Structure</a>
+[Back to Sentence structure]({{site.baseurl}}/structures/sentence-structure)
 
 
 

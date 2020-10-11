@@ -16,4 +16,4 @@ title: Punctuation
 <br/>
 <br/>
 
-[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)
+[Back to Grammar section]({{site.baseurl}}/blog)

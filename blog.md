@@ -5,16 +5,16 @@ permalink: /blog/
 ---
 
 
-### [Sentence Structure]({{site.baseurl}}/structures)  
+### [Sentence Structure]({{site.baseurl}}/structures/sentence-structure)  
 ### [Punctuation]({{site.baseurl}}/structures/punctuation)
 
 
-<br/>
-<br/>
-
----
 
 <br/>
 <br/>
 
-[Back to The Phrase]({{site.baseurl}}/structures/the-phrase)
+
+
+<br/>
+<br/>
+
