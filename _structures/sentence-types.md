@@ -47,4 +47,4 @@ Example: The team played a great game, but the ref decided that the last goal sh
 <br/>
 <br/>
 
-[Back to Connecting Words]({{site.baseurl}}/structures/connecting-words)
+[Back to Sentence structure]({{site.baseurl}}/structures/sentence-structure)
