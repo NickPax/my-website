@@ -16,7 +16,7 @@ Adjective clauses begin with these words and these words only:
 | whose | 
 
 
-Ajective clauses that begin with the word that are defining; so no commas should be used.  
+Adjective clauses that begin with the word that are defining; so no commas should be used.  
 MWW Examples: 
 I was used to a company that had a full benefit package.  
 my example: She's the one I was telling you about. !!!!   
