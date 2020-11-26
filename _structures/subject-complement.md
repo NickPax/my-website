@@ -11,7 +11,7 @@ Linking verbs:
 Seem
 Smells
 
-Examples. 
+Examples:  
 It is he. 
 He is a driver. 
 He looks tired. 
