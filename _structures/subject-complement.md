@@ -1,4 +1,4 @@
-Compare with appositive. 
+Compare with the appositive. 
 
 Subject complement is either. 
 Noun. 
