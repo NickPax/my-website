@@ -11,7 +11,8 @@ Noun.
 Adjective. 
 Pronoun. 
 
-It follows a linking verb or to be. 
+It follows a linking verb or "to be" (am, being, is, etc.).  
+
 Linking verbs:
 
 Seem
