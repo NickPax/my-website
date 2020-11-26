@@ -11,9 +11,9 @@ We waited for a time when it was convenient for everybody.
 Adjective clauses begin with these words and these words only:  
 [table]
 
-who which when
-whom that where
-whose 
+| who | which | when |
+| whom | that | where |
+| whose | 
 
 
 Ajective clauses that begin with the word that are defining; so no commas should be used.  
