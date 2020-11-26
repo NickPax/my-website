@@ -1,9 +1,3 @@
----
-layout: structure
-title: Subject complement
----
-
-
 Compare with appositive. 
 
 Subject complement is either. 
@@ -11,8 +5,7 @@ Noun.
 Adjective. 
 Pronoun. 
 
-It follows a linking verb or "to be" (am, being, is, etc.).  
-
+It follows a linking verb or to be. 
 Linking verbs:
 
 Seem
