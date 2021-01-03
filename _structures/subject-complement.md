@@ -4,7 +4,6 @@ title: Subject complement
 ---
 
 
-
 Compare with appositive.
 
 Subject complement is either. Noun. Adjective. Pronoun.
