@@ -2,7 +2,6 @@
 layout: structure
 title: The infinitive phrase
 ---
-
 * Always "to" plus a verb.  
 * Is **never** part of the verb of a sentence.
 * Looks like a verb but can act like an adjective, adverb, or a noun.  

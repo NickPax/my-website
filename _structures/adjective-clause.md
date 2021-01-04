@@ -3,6 +3,8 @@ layout: structure
 title: The adjective clause
 ---
 
+REMOVED ADJECTIVE CLAUSE!
+
 Answers the questions **which one?** or **what?** about the noun or pronoun it modifies.  
 MWW examples - The driver of the getaway car, whom I cannot describe, did not leave the car.  
 The bank that we used had a reputation for integrity.  
