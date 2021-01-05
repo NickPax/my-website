@@ -3,6 +3,10 @@ layout: structure
 title: Sentence structure
 ---
 
+### [Sentence Types]({{site.baseurl}}/structures/sentence-types)  
+<br/>
+
+
 ### [The  Phrase]({{site.baseurl}}/structures/the-phrase)  
 [The  verb phrase]({{site.baseurl}}/structures/verb-phrase)  
 [The  verbal phrase]({{site.baseurl}}/structures/verbal)  
