@@ -1,0 +1,4 @@
+---
+layout: structure
+title: Abbreviations
+---

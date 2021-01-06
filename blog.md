@@ -10,7 +10,6 @@ permalink: /blog/
 ### [Ken Wick's "Top Ten Differences between Morson's and BGGP"]({{site.baseurl}}/structures/kw-top-ten-differences)
 
 
-
 <br/>
 <br/>
 
