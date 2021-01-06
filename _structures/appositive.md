@@ -1,3 +1,10 @@
+---
+layout: structure
+title: The appositive
+---
+
+
+
 It's something that renames something else.  
 e.g. The boss, Brian, was kind.  
 
