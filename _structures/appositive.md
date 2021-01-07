@@ -7,6 +7,7 @@ title: The appositive
 
 It's something that renames something else.  
 e.g. The boss, Brian, was kind.  
+So when the appositive immediately follows the word that it renames (in the above case, boss) use a comma.
 
 If it is not right next to the word it renames, still use commas if in the middle of the sentence:
 e.g. He needed to stay alert, the bouncer, as a few trouble makers had arrived. 
@@ -33,3 +34,11 @@ e.g. The question, why he felt it was the right thing to do, remains unanswered.
 
 If the appositive contains punctuation, use dashes:  
 e.g. The notes she tried to hit -- top C, D, and F -- were just to high.
+
+If a noun appositive comes before the word it renames, use a dash.  
+e.g.: The piano -- did youy buy it?
+However it is also possible to use a comma.
+e.g.: This bag, does it belong to you?
+
+
+
