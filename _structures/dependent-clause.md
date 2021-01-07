@@ -114,8 +114,6 @@ Example:
 
 You are forgetting one thing -- that the car was still running.
 
-After the stormy weather -- great hail balls and rain -- they went outside.  
-
 When a noun clause is used to rename the subject at the end of a sentence, use a dash.  
 
 Example:  
@@ -149,8 +147,7 @@ If the adverb clause is not directly related to the content of the part of the s
 Examples:  
 
 The firm has a no-smoking policy throughout the campus, even though no one really smokes these days.  
-
-The team had organised a huge ad hoarding and placed the content in full view, although you couldn't really see it because the font was too small.  
+ 
 
 SEE ALSO HERE  
 

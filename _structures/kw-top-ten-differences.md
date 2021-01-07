@@ -10,7 +10,10 @@ This is great as it goes through important differences.
 Ken says he found 47 differences among LMEG, BGGP, and GRM in his book *99 Essential Rules*
 I list Ken's top 10 below:  
 1.  
-table - ok and all right at the beginning of a sentence.
+|Period after interjections?|
+|BGGP|LMEG|
+|Okay, all right, very well, sh*t, damn, fu*k|okay, all right|
+|At beginning *and* end of sentence|At begimnning of sentence|
 
 2.  
 ...
