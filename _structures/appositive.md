@@ -33,3 +33,11 @@ e.g. The question, why he felt it was the right thing to do, remains unanswered.
 
 If the appositive contains punctuation, use dashes:  
 e.g. The notes she tried to hit -- top C, D, and F -- were just to high.
+
+If a noun appositive comes before the word it renames, use a dash.  
+e.g.: The piano -- did youy buy it?
+However it is also possible to use a comma.
+e.g.: This bag, does it belong to you?
+
+
+
