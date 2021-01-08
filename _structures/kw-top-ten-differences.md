@@ -41,7 +41,7 @@ I list Ken's top 10 below:
 
 |BGGP|LMEG GRM CMOS|
 |Yes|No, unless the person prefers it|
-|John Doe, Sr.,|John Doe Sr.|  
+|John Doe, Sr., addressed the Court|John Doe Sr. addressed the Court|  
 
 {% include youtube.html id='teBm6tWVPSE' %} 
 
@@ -72,6 +72,80 @@ I list Ken's top 10 below:
 {% include youtube.html id='gNwIB7Hld1s' %}  
 
 <br>
+(5)
+
+**Colon before Quotation**  
+
+|BGGP|LMEG|GRM|CMOS|
+|If the quotation is very long (block-formatted quotation) or very formal (a judgement call)|If the quotation is "formal", e.g., legal or historical docs, speeches, etc.|If the quotation is introduced by an independent clause or it's more than one sentence|If the quotation is introduced by an independent clause. Colon may replace comma if used consistently.|
+|The Defendant made a surprising statement in court, "I was nowhere near the hotel that night."|The Defendant made a surprising statement in court, "I was nowhere near the hotel that night."|The Defendant made a surprising statement in court: "I was nowhere near the hotel that night.|The Defendant made a surprising statement in court: "I was nowhere near the hotel that night.|  
+
+{% include youtube.html id='aYLfrB53Nqs' %}  
+
+<br>
+(6)
+
+**Spoken Punctuation using Quote, Close Quote**  
+
+|BGGP|LMEG|
+|Use commas around spoken puntuation *and* quotation marks|Either commas around spoken punctuation and no quotation marks, or just quotation marks and no spoken punctuation|
+|My manager told me to, quote, "persuade," close quote, the client.|My manager told me to, quote, persuade, close quote, the client.|
+||My manager told me to "persuade" the client.|  
+
+See "Video 021: Quotation Marks (Part 1)" above.   
+
+<br>
+(7)  
+
+**Words or Figures with "o'clock"**  
+
+|BGGP|LMEG|
+|Use figures and ciphers (zeros) before o'clock.|Use words before o'clock.|
+The alarm went off at 6:00 o'clock.|The alarm went off at six o'clock.|  
+
+{% include youtube.html id='JqcUbRBg1d4' %}  
+
+<br>
+(8)  
+
+**Adjacent Numbers**  
+
+|BGGP|LMEG|GRM|
+|Use a space when written out or a hyphen with figures.|Hyphen|Use a comma with either words or figures.|
+|Jan is six three.|Jan is six-three.|Jan is six, three.|
+|Jan is 6-3||Jan is 6,3|
+
+
+In the "Top Ten Differences" video, Ken says that LMEG allows two adjacent figures to be separated by "a comma or other punctuation." However Rule 203 in LMEG states that *[i]f* a comma or other punctuation separates the two numerical expressions, digits may be used for both expressions. Here Morson is saying that the former case is an exception and that usually "[i]f two numerical expressions come together, write one expression as a figure and write one expression as a word." She then gives three examples, including this one: "It's 4 months times 400. That's 12 weeks times 400: $4,800 roughly."
+
+See "Video 033: Numbers (Part 3)" above. 
+
+<br>
+(9)  
+
+**Compound Adjectives**  
+
+|BGGP|LMEG|GRM|CMOS|
+|If the quotation is very long (block-formatted quotation) or very formal (a judgement call)|If the quotation is "formal", e.g., legal or historical docs, speeches, etc.|If the quotation is introduced by an independent clause or it's more than one sentence|If the quotation is introduced by an independent clause. Colon may replace comma if used consistently.|
+|The Defendant made a surprising statement in court, "I was nowhere near the hotel that night."|The Defendant made a surprising statement in court, "I was nowhere near the hotel that night."|The Defendant made a surprising statement in court: "I was nowhere near the hotel that night.|The Defendant made a surprising statement in court: "I was nowhere near the hotel that night.|  
+
+{% include youtube.html id='aYLfrB53Nqs' %}  
+
+<br>
+(10)
+
+**Long Compound Adjective**  
+
+|BGGP|LMEG|GRM|CMOS|
+|If the quotation is very long (block-formatted quotation) or very formal (a judgement call)|If the quotation is "formal", e.g., legal or historical docs, speeches, etc.|If the quotation is introduced by an independent clause or it's more than one sentence|If the quotation is introduced by an independent clause. Colon may replace comma if used consistently.|
+|The Defendant made a surprising statement in court, "I was nowhere near the hotel that night."|The Defendant made a surprising statement in court, "I was nowhere near the hotel that night."|The Defendant made a surprising statement in court: "I was nowhere near the hotel that night.|The Defendant made a surprising statement in court: "I was nowhere near the hotel that night.|  
+
+{% include youtube.html id='aYLfrB53Nqs' %}  
+
+<br>
+
+
+
 
 
 
