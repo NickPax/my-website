@@ -1,6 +1,7 @@
 ---
 layout: structure
 title: Sentence structure
+image: /assets/images/birds.jpg
 ---
 
 ### [Sentence Types]({{site.baseurl}}/structures/sentence-types)  
