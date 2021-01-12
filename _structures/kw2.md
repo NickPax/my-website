@@ -1,6 +1,6 @@
 ---
 layout: structure
-title: Top Ten Differences Between Morson's and BGGP
+title: Ten More Differences Between Morson's and BGGP
 ---  
 
 
@@ -8,7 +8,7 @@ title: Top Ten Differences Between Morson's and BGGP
 <h1>Quick Jump:</h1>  
 
 {: .greybg}
-[Punctuating common fragments](#one)  
+["v." in Legal Citations](#one)  
 [Separate Jr. and Sr. with commas?](#two)  
 [End of sentence one-word questions using *right*, *correct*, or *true*](#three)  
 [Questions that follow forms of *to be*](#four)  
@@ -21,9 +21,12 @@ title: Top Ten Differences Between Morson's and BGGP
 
 <br>
 
-**Ken Wick's YouTube video "055 top 10 differences Between LMEG and BGGP"**  
+**Ken Wick's YouTube video "056 Ten More differences Between LMEG and BGGP"**  
 
-{% include youtube.html id='ISvbdO3nEyQ' %}  
+{% include youtube.html id='X21284unOxI' %}  
+<br>
+ 
+
 
 <br>
 Also includes differences between CMOS and GRM.  
@@ -45,21 +48,22 @@ Below are Ken's top 10 differences:
 
 (1)
 
-## Punctuating common fragments {#one}  
+## "v." in Legal Citations {#one}  
 
 
 |BGGP|LMEG|
-|Okay, all right, very well; and strong interjections, e.g., sh#t, damn, fu#k|okay, all right|
-|At beginning *and* end of sentence|At beginning of sentence|
-|All right. Shall we proceed?|All right. Shall we proceed?|
-|Sh#t. I don't recall.|Sh#t, I don't recall. (Ken says LMEG would *probably* use a comma here since it's an interjection.)|   
+|Use "v." or "vs."|Use "v."|  
 
-{% include youtube.html id='wPHbG_zaoEk' %}    
+*A Uniform System for Citations (20th Edition, 2015)* -- use "v."  
+E.g.: *United States v. Pepperman*
+ 
+
+{% include youtube.html id='mU61lVSnC3Y' %}    
 
 <br>
 (2) 
 
-## Separate Jr. and Sr. with commas? {#two}  
+## Expressing Age - word or number? {#two}  
 
 |BGGP|LMEG GRM CMOS|
 |Yes|No, unless the person prefers it|
@@ -175,9 +179,7 @@ See "Video 044: The Hyphen (Part 4)" above.
 <br>
 
 
-
-
-
+Link to the first article on this: ["Ken Wick's 'Top Ten Differences between Morson's and BGGP'"]({{site.baseurl}}/structures/kw-top-ten-differences)   
 
   
 
