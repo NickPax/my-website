@@ -21,7 +21,7 @@ title: Top Ten Differences Between Morson's and BGGP
 
 <br>
 
-**Ken Wick's YouTube video "055 top 10 differences Between LMEG and BGGP"**  
+** Ken Wick's YouTube video "055 top 10 differences Between LMEG and BGGP"  
 
 {% include youtube.html id='ISvbdO3nEyQ' %}  
 

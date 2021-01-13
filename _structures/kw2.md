@@ -9,15 +9,15 @@ title: Ten More Differences Between Morson's and BGGP
 
 {: .greybg}
 ["v." in Legal Citations](#one)  
-[Separate Jr. and Sr. with commas?](#two)  
-[End of sentence one-word questions using *right*, *correct*, or *true*](#three)  
-[Questions that follow forms of *to be*](#four)  
-[Colon before quotation](#five)  
-[Spoken punctuation using quote, close quote](#six)  
-[Words or figures with o'clock](#seven)  
-[Adjacent numbers](#eight)  
-[Compound adjectives (hyphenation or not)](#nine)  
-[Long compound adjectives](#ten)  
+[Expressing Age - word or number?](#two)  
+[Time on the hour](#three)  
+[a.m. and p.m.](#four)  
+[Cipher with amount under $1](#five)  
+[Cipher with a decimal amount?](#six)  
+[Plural of a number](#seven)  
+[Plural of capitalized abbreviation](#eight)  
+[X-Ray](#nine)  
+[Spacing for periods and question marks](#ten)  
 
 <br>
 
@@ -41,6 +41,8 @@ DEFINITIONS:
 "GRM" means *Gregg's Reference Manual*.  
 
 "CMOS" means *The Chicago Manual of Style*  
+
+"MW" means *The Merriam Webster Dictionary*
 <br> 
 
 Ken says he found 47 differences among LMEG, BGGP, and GRM in his book *99 Essential Rules*.  
@@ -65,116 +67,101 @@ E.g.: *United States v. Pepperman*
 
 ## Expressing Age - word or number? {#two}  
 
-|BGGP|LMEG GRM CMOS|
-|Yes|No, unless the person prefers it|
-|John Doe, Sr., addressed the Court|John Doe Sr. addressed the Court|  
+|BGGP|LMEG|
+|Use words for ages one through ten and figures for ages above ten.|Use figures for age.|
+Tom was seven years old.|Tom was 7 years old.|
 
-{% include youtube.html id='teBm6tWVPSE' %} 
+
+
+{% include youtube.html id='g2VG_SAFDYc' %} 
 
 <br>
 (3) 
 
-## End of sentence one-word questions using *right*, *correct*, or *true*  {#three}
+## Time on the hour  {#three}
 
-|BGGP|LMEG|GRM|
-|semicolon|period, semicolon, or comma|comma|
-|That's all you saw; correct?|That's all you saw. Correct?|That's all you saw, correct?|
-||That's all you saw; correct?||
-||That's all you saw, correct?||  
-
-{% include youtube.html id='h6batTLKKEM' %}  
-
-<br>
-(4)  
-
-## Questions that follow forms of *to be* {#four}  
-
-|BGGP|LMEG GRM CMOS|
-|Use colon if introduced by independent clause|Use colon if introduced by independent clause or for emphasis|
-|Otherwise, no comma||
-|My question is this: Were you awake at the time?|My question is this: Were you awake at the time?|
-|My question is were you awake at the time?| My question is, Were you awake at the time?|  
-
-{% include youtube.html id='gNwIB7Hld1s' %}  
-
-<br>
-(5)
-
-## Colon before Quotation {#five} 
-
-|BGGP|LMEG|GRM|CMOS|
-|If the quotation is very long (block-formatted quotation) or very formal (a judgement call)|If the quotation is "formal", e.g., legal or historical docs, speeches, etc.|If the quotation is introduced by an independent clause or it's more than one sentence|If the quotation is introduced by an independent clause. Colon may replace comma if used consistently.|
-|*Counsel made a very good statement to the jury, "Gather facts and decide the case in the deliberation room."|*Counsel made a very good statement to the jury, "Gather facts and decide the case in the deliberation room."|Counsel made a very good statement to the jury: "Gather facts and decide the case in the deliberation room."|Counsel made a very good statement to the jury: "Gather facts and decide the case in the deliberation room."|  
-
-\* I would disagree with Ken here as regards BGGP's and LMEG's treatment of the above example sentence.  
-In BGGP Rule 10.2 The Colon: An Indication of Something Coming, the discussion section under the rule provides the following example: *He read it to us as follows: "You are to report at 9:00 on the 27th."*
-Also in the rule Quotes.15, BGGP states this: *Base the punctuation in front of quotation marks on the grammar in the sentence rather than the quote marks themselves.*  
-LMEG, in Rule 278 Examples, provides the following sentence: *As a teacher and writer, these words I try to live by: "I'm careful of the words I say, / to keep them short and sweet. / I never know from day to day / Which ones I'll have to eat."*  
-
-I realize that these examples are not quoted *speech*, and so maybe I'm wrong about this. However they *are* quotations.
-
-{% include youtube.html id='aYLfrB53Nqs' %}  
-
-<br>
-(6)
-
-## Spoken Punctuation using Quote, Close Quote {#six}  
-
-|BGGP|LMEG|
-|Use commas around spoken puntuation *and* quotation marks|Either commas around spoken punctuation and no quotation marks, or just quotation marks and no spoken punctuation|
-|My manager told me to, quote, "persuade," close quote, the client.|My manager told me to, quote, persuade, close quote, the client.|
-||My manager told me to "persuade" the client.|  
-
-See "Video 021: Quotation Marks (Part 1)" above.   
-
-<br>
-(7)  
-
-## Words or Figures with "o'clock" {#seven}  
-
-|BGGP|LMEG|
-|Use figures and ciphers (zeros) before o'clock.|Use words before o'clock.|
-The alarm went off at 6:00 o'clock.|The alarm went off at six o'clock.|  
+|BGGP|LMEG GRM|
+|use ciphers (zeros)|Prefers no ciphers, but they are acceptable.|
+07:00 a.m.| 7:00 a.m.|
 
 {% include youtube.html id='JqcUbRBg1d4' %}  
 
 <br>
+(4)  
+
+## a.m. and p.m. {#four}  
+
+|BGGP|LMEG GRM|MW|
+|Use a.m. p.m. or A.M. P.M| Use a.m. p.m.|Use a.m. p.m. or AM PM|
+
+See "Video 033: Punctuation Rules: Numbers Part 3" above. 
+
+<br>
+(5)
+
+## Cipher with amount under $1 {#five} 
+
+|BGGP|LMEG GRM|CMOS|
+|Either cipher ($0.89) or no cipher ($.89) is correct.| No cipher with amount under $1 ($.89).| Use cipher ($0.89).|
+
+
+
+{% include youtube.html id='ktzTnOyFcqg' %}  
+
+<br>
+(6)
+
+## Cipher with a decimal amount? {#six}  
+
+|BGGP|LMEG GRM|CMOS|
+|Cipher (0.3 grams) or no cipher (.3 grams)|Use a cipher for a number less than 1 (0.3 grams).|Cipher (0.3 grams)|
+
+
+{% include youtube.html id='w1wn6YtOFkA ' %}  
+ 
+
+<br>
+(7)  
+
+## Plural of a number {#seven}  
+
+|BGGP|LMEG GRM|
+|Add an s (1908s) or apostraphe s (1980's).|Add an s. (1980s).|
+
+{% include youtube.html id='YLH0_y8Y9xU' %}  
+
+<br>
 (8)  
 
-## Adjacent Numbers {#eight} 
+## Plural of capitalized abbreviation {#eight} 
 
 |BGGP|LMEG|GRM|
-|Use a space when written out or a hyphen with figures.|Hyphen|Use a comma with either words or figures.|
-|Jan is six three.|Jan is six-three.|Jan is six, three.|
-|Jan is 6-3||Jan is 6,3|
+|Add an s (TVs) or apostrophe s (TV's). |Add an s (TVs).|
 
+{% include youtube.html id='tmuMi-lEixk' %} 
 
-In the "Top Ten Differences" video, Ken says that LMEG allows two adjacent figures to be separated by "a comma or other punctuation." However Rule 203 in LMEG states that "*[i]f* a comma or other punctuation separates the two numerical expressions, digits may be used for both expressions." Here Morson is saying that the former case is an exception and that usually "[i]f two numerical expressions come together, write one expression as a figure and write one expression as a word." She then gives three examples, including this one: "It's 4 months times 400. That's 12 weeks times 400: $4,800 roughly."
-
-See "Video 033: Numbers (Part 3)" above. 
 
 <br>
 (9)  
 
-## Compound Adjectives (hyphenation or not) {#nine}  
+## X-Ray {#nine}  
 
-|BGGP|LMEG|
-|Hyphenate when it forms a unit. BGGP has 10 rules of different concepts and situations. Check a standard dictionary.|Use patterns, e.g. adj.+ noun before a noun, *well* + participle before a noun. LMEG has 16 of these compound adjective patterns (see Ken's video no. 44 below). When in doubt, consult a dictionary.
-|Example: two-door automobile -- neither a "two automobile" or a "door automobile"; the words are hyphenated to form a unit.|| 
+|BGGP|LMEG|MW|
+|X ray (noun)|X-ray or X ray (noun).|X-ray (noun)|
+|x-ray (verb or adj.)|X-ray (verb or adj).|x-ray (verb)|  
 
-{% include youtube.html id='JY4B9EnBsJA' %}  
-<br>
-{% include youtube.html id='OMkj9zW3QOg' %}  
+
+{% include youtube.html id='QJb_YKfgB0c' %}  
 
 <br>
 (10)
 
-## Long Compound Adjective {#ten}  
+## Spacing for periods and question marks {#ten}  
 
-|BGGP|LMEG|
-|Use quotation marks when a compound adjective is "something someone might say in a conversation." The longer the saying, the less likely hyphens are going to be clear.|If a hyphenated compound adjective is **six or more words or could be misread**, then enclose it in quotation marks.|
+|BGGP|LMEG|GRM|CMOS|
+|One space after a period or question mark unless using typewriter-like (monospace) font|Two spaces after a period or question mark|Same as BGGP|One space after a period or question mark|
 
-See "Video 044: The Hyphen (Part 4)" above.  
+{% include youtube.html id='GYCM5jUa994' %}   
 
 <br>
 
