@@ -46,6 +46,10 @@ mwwex: Before, he worked for charity.
 I think not, since he has to be here anyway.  
 
 <br/>
+Do not use a comma here:
+-- When two sets of subjects and verbs share a common element.
+E.g. The company needs to know and the state needs to know what services are provided to these clients.
+
 <br/>
 
 ---
