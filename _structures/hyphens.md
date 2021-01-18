@@ -1,5 +1,8 @@
 Examples:  
-
+---
+layout: structure
+title: The Gerund
+---
 
 *Air conditioning* -- as noun  
 *Air-conditioning* -- as verb or adj.  
