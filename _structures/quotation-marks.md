@@ -23,8 +23,6 @@ e.g. DC-10, Pendolino
 But the individual names of ships, trains, etc should be italicized:
 e.g. USS *Nimitz*  
 
-<hr>  
-
 ---  
 
 Morson's says that sometimes what should and should not be quoted is very subtle. "In some cases it does not matter which way the reporter writes the line."  
