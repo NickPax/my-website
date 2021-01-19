@@ -18,7 +18,7 @@ image: /assets/images/birds.jpg
 
 
 ### [Connecting Words]({{site.baseurl}}/structures/connecting-words)  
-[The  coordinate conjunction]({{site.baseurl}}/structures/coordinate-conjunction)  
+[The  coordinate conjunction]({{site.baseurl}}/structures/coordinate-conjunctions)  
 [The  subordinate conjunction]({{site.baseurl}}/structures/subordinate-conjunction)  
 [The conjunctive adverb]({{site.baseurl}}/structures/conjunctive-adverb)
 

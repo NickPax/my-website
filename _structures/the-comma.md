@@ -39,7 +39,9 @@ After reaching a verdit, you will return to this courtroom.
 On the afternoon of the 12th, we saw her again.  
 For long, long periods, she did not speak to anyone outside the family.  
 
-## Comma with "yet" -- see [here] ({{site.baseurl}}/structures/coordinate-conjunction)
+### Comma with "yet" -- see [here]({{site.baseurl}}/structures/conjunctive-adverb/#comma-before-yet)
+
+
 
 Anytime for clarity.  
 

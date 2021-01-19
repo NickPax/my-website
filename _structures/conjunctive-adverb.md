@@ -31,8 +31,7 @@ A good way to identify whether or not you're dealing with a conjunctive adverb i
 
  <hr>  
  
-## "v." in Legal Citations {#one}  
-
+ 
 ## Comma before "yet"? {#comma-before-yet}  
 
 Consider this sentence:  
