@@ -18,7 +18,7 @@ e.g. *Batman*
 Also the names ships, trains, spacecraft, and cars should be capitalized as regards the class or make:  
 e.g. DC-10, Tesla, Pendolino  
 
-But the individual names of ships, trains etc should be italicized:
+But the individual names of ships, trains, etc should be italicized:  
 e.g. USS *Nimitz*
 
 
