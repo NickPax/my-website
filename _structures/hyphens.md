@@ -1,8 +1,9 @@
-Examples:  
 ---
 layout: structure
 title: Hyphens
----
+---  
+
+Examples:
 
 *Air conditioning* -- as noun  
 *Air-conditioning* -- as verb or adj.  
