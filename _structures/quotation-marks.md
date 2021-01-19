@@ -51,11 +51,6 @@ Use quotation marks as much as possible for clarity.  And don't forget to paragr
  
  
 
-<<<<<<< HEAD
-But the individual names of ships, trains, etc should be italicized:  
-e.g. USS *Nimitz*
-=======
->>>>>>> d981b3ae2a9ddb2f5e458c5071bc9f68edb126f9
 
 
 
