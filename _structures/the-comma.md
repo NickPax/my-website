@@ -39,6 +39,7 @@ After reaching a verdit, you will return to this courtroom.
 On the afternoon of the 12th, we saw her again.  
 For long, long periods, she did not speak to anyone outside the family.  
 
+## Comma with "yet" -- see [here] ({{site.baseurl}}/structures/coordinate-conjunction)
 
 Anytime for clarity.  
 
@@ -46,6 +47,10 @@ mwwex: Before, he worked for charity.
 I think not, since he has to be here anyway.  
 
 <br/>
+Do not use a comma here:
+-- When two sets of subjects and verbs share a common element.
+E.g. The company needs to know and the state needs to know what services are provided to these clients.
+
 <br/>
 
 ---
