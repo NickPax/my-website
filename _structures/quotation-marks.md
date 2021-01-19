@@ -24,11 +24,6 @@ But the individual names of ships, trains, etc should be italicized:
 e.g. USS *Nimitz*  
 
 <hr>  
-ddd  
-
-</hr>  
-
-rrr  
 
 ---  
 
@@ -45,7 +40,7 @@ When asked how he felt, the defendant said okay.
 When asked how he felt, the defendant said, "Okay."  
 
 Use quotation marks as much as possible for clarity.  And don't forget to paragraph the speakers in exchanges between two or more speakers in direct quotations.  
- </hr>  
+
  <hr>  
  If a word or phrase is quoted or italicized and is then repeated, do not continue to quote or italicize after the first instance.  
  
