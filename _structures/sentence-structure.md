@@ -5,7 +5,7 @@ image: /assets/images/birds.jpg
 ---
 
 ### [Sentence Types]({{site.baseurl}}/structures/sentence-types)  
-(simple, compound, complex, compound/complex)  
+[simple, compound, complex, compound/complex]({{site.baseurl}}/structures/sentence-types)  
 
 ### [The  Phrase]({{site.baseurl}}/structures/the-phrase)  
 [The  verb phrase]({{site.baseurl}}/structures/verb-phrase)  
@@ -20,6 +20,7 @@ image: /assets/images/birds.jpg
 
 
 ### [Connecting Words]({{site.baseurl}}/structures/connecting-words)  
+[The  relative pronoun]({{site.baseurl}}/structures/relative-pronoun) 
 [The  coordinate conjunction]({{site.baseurl}}/structures/coordinate-conjunction)  
 [The  subordinate conjunction]({{site.baseurl}}/structures/subordinate-conjunction)  
 [The conjunctive adverb]({{site.baseurl}}/structures/conjunctive-adverb)  
