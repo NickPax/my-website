@@ -39,7 +39,10 @@ But when it's non-defining (look for words like why, how when, whether, etc) use
 E.g. The question, why he felt it was the right thing to do, remains unanswered.  
 
 If the appositive contains punctuation, use dashes:  
-E.g. The notes she tried to hit -- top C, D, and F -- were just to high.
+E.g. The notes she tried to hit -- top C, D, and F -- were just to high.  
+
+If there is a parenthetical in the middle of the sentence, use a comma:  
+E.g. The notes she tried to hit -- that is, top C, D, and F -- were just too high.
 
 If a noun appositive comes before the word it renames, use a dash.  
 E.g.: The piano -- did youy buy it?  
@@ -48,6 +51,7 @@ However it is also possible to use a comma.
 E.g.: This bag, does it belong to you?
 
 ###Parentheticals  
+
 If the parenthetical is followed by a fragment, set off the parenthetical with commas.  
 E.g. It was a week night, that is, a Wednesday.  
 
@@ -55,5 +59,5 @@ If the parenthetical is follwed by a complete sentence, use a semicolon with a c
 E.g. It was a week night; that is, it was a Wednesday.  
 
 If the parenthetical is followed by a list, use a colon and comma:  
-E.g. They followed a strict schedule of days: that is [or i.e.], Monday, Wednesday, and Friday.
+E.g. They followed a strict schedule of days: that is [or i.e.], Monday, Wednesday, and Friday.  
 
