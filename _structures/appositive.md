@@ -11,7 +11,7 @@ So when the appositive immediately follows the word that it renames (in the abov
 E.g. Bill's little sister Jane is taller than you, Jimmy.
 
 If it is not right next to the word it renames, still use commas if in the middle of the sentence:
-e.g. He needed to stay alert, the bouncer, as a few trouble makers had arrived. 
+e.g. He needed to stay alert, the bouncer, as a few troublemakers had arrived. 
 
 But it might be **very** far away in the sentence:
 e.g. It started to make a funny noise half way through the gig -- my brand new Les Paul guitar.
