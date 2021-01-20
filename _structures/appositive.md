@@ -23,7 +23,11 @@ It can be a word, words, phrase, or even a whole clause:
 E.g. How embarrasing that was on the night of our big gig -- that I forgot the chords to the song!  
 
 If the appositive comes at the end, after the sentence has finished, use a dash before it:  
-They cherred and clapped enthusiastically -- the crowd.  
+They cherred and clapped enthusiastically -- the crowd.   
+
+Use commas or dashes to set off a nonessential noun clause appositive if it immediately comes after the noun it renames:  
+E.g. The issue -- what to have for breakfast -- was quickly resolved.  
+The issue, what to have for breakfast, was quickly resolved.  
 
 Sometimes the appositive comes first. Use a dash:  
 E.g. The tall guy at the back -- he can see clearly.
@@ -43,5 +47,13 @@ E.g.: The piano -- did youy buy it?
 However it is also possible to use a comma.
 E.g.: This bag, does it belong to you?
 
+###Parentheticals  
+If the parenthetical is followed by a fragment, set off the parenthetical with commas.  
+E.g. It was a week night, that is, a Wednesday.  
 
+If the parenthetical is follwed by a complete sentence, use a semicolon with a comma after it.  
+E.g. It was a week night; that is, it was a Wednesday.  
+
+If the parenthetical is followed by a list, use a colon and comma:  
+E.g. They followed a strict schedule of days: that is [or i.e.], Monday, Wednesday, and Friday.
 
