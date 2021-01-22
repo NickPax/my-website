@@ -30,6 +30,13 @@ His job is full time (predicate adj.)
 three fourths  
 one half of the earth's water  
 
+praiseworthy  
+a rip-off  
+nitty-gritty  
+yearbook  
+a get-together  
+antidrug
+
 
 
 
