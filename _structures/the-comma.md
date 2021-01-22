@@ -6,38 +6,37 @@ title: The comma
 * Use a comma in the following situations:  
 
 At the beginning of a sentence, after any form of single-word parenthetical.  
-
-Examples:  
-mwwex: Well, it was certainly enough to frighten all of us.  
-Oh, there were probably 15 of us.  
-Gee, it was five or six weeks later.  
-
-Then, like, we never did get to go on those trips.  
-Now, did you accompany him to tha bank that day?  
-You know, like, he was just a jerk.  
+E.g. Now, how did you find the room? 
+Well, that went well.  
+Oh, I see you're wearing red too.    
+Then, like, we just took off.  
 
 After an introductory prepositional phrase that contains a dependent clause.  
 After an introductory prepositional phrase that contains an adverb clause.  
 After an introductory prepositional phrase that contains a verbal.  (Phrases with a gerund, participle, or infinitive)
-After a long (four or five words)  prepositional phrase at the front of the sentence.
-But do not use a comma after a short prepositional phrase a the beginning of a sentence.  
-Also, use a comma if there are two or more prepositional phrases at the beginning.
-And use a comma after an introductory prepositional phrase if it has commas inside it.
-Use a comma when the introductory element could not possibly start a new conversation.  
-When the introductory phrase is parenthetical.
-Examples:
-mwwex: 
-In conclusion, I want to point out the circumstances around this incident.  
-However, he had to get his marriage anulled before he could move forward.  
-For all I know, he could be anywhere now.
-In the afternoon we saw her again.  
-By the way, he often took naps even though he was supposed to be working.  
-In the very late afternoon, we saw her again.  
-If necessary, finish it now.  
+After a long (four or five words) prepositional phrase at the front of the sentence.
+But do not use a comma after a short prepositional phrase at the beginning of a sentence.  
+
+Also, use a comma if there are two or more prepositional phrases at the beginning.  
+
+And use a comma after an introductory prepositional phrase if it has commas inside it.  
+
+Use a comma when the introductory element **could not possibly start a new conversation**.  
+
+When the introductory phrase is parenthetical.  
+E.g. By the way, do you smoke? 
+If necessary, finish it now. 
 When he arrived, he went straight to work.  
-After reaching a verdit, you will return to this courtroom.   
-On the afternoon of the 12th, we saw her again.  
-For long, long periods, she did not speak to anyone outside the family.  
+However, this was impossible.  
+For all I know, they drove south.
+
+In the afternoon it started to snow.  
+In conclusion, let's go over the party list. 
+In the very late afternoon, the sun came out.  
+ 
+ After reaching a verdict, you will return to this courtroom.   
+ 
+
 
 ## Comma with "yet" -- see [here] ({{site.baseurl}}/structures/coordinate-conjunction)
 

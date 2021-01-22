@@ -32,7 +32,7 @@ A district court will try this.
 
 Only capitalize *counsel* in direct address and as a name title.  
 
-Only capitalize *district attorney*  when it refers to the politicl entity, not to a local office or deputy. The single elected official for a jurisdiction should be capped.  
+Only capitalize *district attorney*  when it refers to the political entity, not to a local office or deputy. The single elected official for a jurisdiction should be capped.  
 
 
 

@@ -9,7 +9,7 @@ title: Punctuation
 [Hyphen]({{site.baseurl}}/structures/hyphens)  
 [No punctuation]({{site.baseurl}}/structures/no-punctuation)  
 [Period]({{site.baseurl}}/structures/the-period)  
-[Question mark)]({{site.baseurl}}/structures/the-interrog)  
+[Question mark]({{site.baseurl}}/structures/the-interrog)  
 [Quotation marks]({{site.baseurl}}/structures/quotation-marks)  
 
 
