@@ -63,7 +63,9 @@ E.g. This tastes like a New York, New York pizza.
 Washington, D.C.  
 
 #### Comma with "yet" -- see [here]({{site.baseurl}}/structures/conjunctive-adverb/#comma-before-yet)   
-
+{{ site.baseurl }}{% link _collection/document-name.md %}  
+{{ site.baseurl }}{% link services/index.html %}  
+{{ site.baseurl }}{% link structures/conjunctive-adverb/#comma-before-yet %}
 
 ---
 
