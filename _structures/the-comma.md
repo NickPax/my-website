@@ -38,7 +38,7 @@ In the very late afternoon, the sun came out.
  
 
 
-## Comma with "yet" -- see [here]({{site.baseurl}}/structures/coordinate-conjunction/#comma-with-yet)   
+#### Comma with "yet" -- see [here]({{site.baseurl}}/structures/coordinate-conjunction/#comma-with-yet)   
 
 Anytime for clarity.  
 E.g. Before, they were married.  
