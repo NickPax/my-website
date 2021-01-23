@@ -45,8 +45,8 @@ E.g. Before, they were married.
 I think not, for five of us were there.    
 
 <br/>
-Do not use a comma here:
-When two sets of subjects and verbs share a common element.
+Do not use a comma here:  
+When two sets of subjects and verbs share a common element.  
 E.g. The boss needs to know and I need to know what time you got here.
 
 <br/>  
