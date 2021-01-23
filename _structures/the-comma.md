@@ -28,17 +28,15 @@ E.g. By the way, do you smoke?
 If necessary, finish it now.  
 When he arrived, he went straight to work.  
 However, this was impossible.  
-For all I know, they drove south.
+For all I know, they drove south.  
 
 In the afternoon it started to snow.  
-In conclusion, let's go over the party list. 
+In conclusion, let's go over the party list.  
 In the very late afternoon, the sun came out.  
  
- After reaching a verdict, you will return to this courtroom.   
- 
+ After reaching a verdict, please return to this courtroom.   
 
-
-#### Comma with "yet" -- see [here]({{site.baseurl}}/structures/coordinate-conjunction/#comma-with-yet)   
+#### Comma with "yet" -- see [here]({{site.baseurl}}/structures/conjunctive-adverb/#comma-with-yet)   
 
 Anytime for clarity.  
 E.g. Before, they were married.  
@@ -47,7 +45,7 @@ I think not, for five of us were there.
 <br/>
 Do not use a comma here:  
 When two sets of subjects and verbs share a common element.  
-E.g. The boss needs to know and I need to know what time you got here.
+E.g. The boss needs to know and I need to know what time you got here.  
 
 <br/>  
 

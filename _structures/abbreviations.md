@@ -17,7 +17,7 @@ Abbreviate *number* when a figure follows it but not when it appears at the fron
 E.g. It was No. 42.  
 
 NOTE  
-Use a comma with *e.g.* and *i.e.* when what follows is a fragment:  
+Use a comma with *e.g.* and *i.e.* when what follows is a fragment.  
 E.g. He was proud of his work; i.e., in connection with government.  
 
 Use a semicolon with *e.g.* and *i.e.* when what follows is a complete sentence:
@@ -40,8 +40,8 @@ It was 10 feet high.
 6 percent  
 et seq., et cetera  
 ABC Consultants Corp.  
-Shady, Inc.  
-BritCo, Ltd., is new.  
+Shady, Inc., is shady.  
+BritCo, Ltd., is a new company.  
 B.C.
 
 
