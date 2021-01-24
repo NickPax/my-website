@@ -1,6 +1,6 @@
 ---
 layout: structure
-title: Verbal Phrase
+title: Word use
 ---  
 
 Examples:  
