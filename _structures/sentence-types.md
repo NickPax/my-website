@@ -10,16 +10,16 @@ Contains only a single independent clause.
 Only one set of subjects and verbs.  
 E.g. Walk this way.  
 
-<br/>  
+<br/>   
 
-### compound
+### compound  
 
 Contains two or more independent clauses.  
 No dependent clauses.  
 E.g. The internet is down; thus I can't do the work right now.  
 The boss said okay, but he wants you to hurry up.  
 
-<br/>  
+<br/>   
 
 ### complex
 
