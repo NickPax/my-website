@@ -12,7 +12,7 @@ E.g. Walk this way.
 
 <br/>   
 
-### compound  
+### compound
 
 Contains two or more independent clauses.  
 No dependent clauses.  
