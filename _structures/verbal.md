@@ -20,8 +20,7 @@ It can be a gerund, being used as a noun:
 It can be a present participle being used as an adjective:  
 He is a member of the <ins>reading</ins> club.  
 
-
-</br>
+<br>
 
 * The three forms of the verbal are as follows:  
 Gerund  (can be subject, predicate nominative, direct object, or object of a preposition)  

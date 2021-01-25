@@ -4,12 +4,14 @@ title: Punctuation
 ---
 
 [Abbreviations]({{site.baseurl}}/structures/abbreviations)  
-[The dash]({{site.baseurl}}/structures/dashes)  
-[The  interrog (question mark)]({{site.baseurl}}/structures/the-interrog)  
-[The period]({{site.baseurl}}/structures/the-period)   
-[Quotation marks]({{site.baseurl}}/structures/quotation-marks)   
-[The comma]({{site.baseurl}}/structures/the-comma)  
-[The hyphen]({{site.baseurl}}/structures/hyphens) 
+[Comma]({{site.baseurl}}/structures/the-comma)  
+[Dashes]({{site.baseurl}}/structures/dashes)  
+[Hyphen]({{site.baseurl}}/structures/hyphens)  
+[No punctuation]({{site.baseurl}}/structures/no-punctuation)  
+[Period]({{site.baseurl}}/structures/the-period)  
+[Question mark]({{site.baseurl}}/structures/the-interrog)  
+[Quotation marks]({{site.baseurl}}/structures/quotation-marks)  
+
 
 
 <br/>

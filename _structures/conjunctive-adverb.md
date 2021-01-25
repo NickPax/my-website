@@ -36,9 +36,8 @@ A good way to identify whether or not you're dealing with a conjunctive adverb i
 
 Consider this sentence:  
 He wrote the lyrics, yet could not remember them.  
-
-The comma replaces "and".  
-according to BGGP, "yet" is a conjunctive adverb and as such is NOT used in the same way as a coordinate conjunction.  
+The comma in the sentence above replaces "and".  
+According to BGGP, "yet" is a conjunctive adverb and as such is NOT used in the same way as a coordinate conjunction.  
 
 But when "yet" (or another conjunctive adverb) links two *independent* clauses, we use a period or a semicolon:  
 E.g. He wrote the lyrics; yet he could not remember them.  

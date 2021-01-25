@@ -3,63 +3,68 @@ layout: structure
 title: The comma
 ---  
 
-Use a comma in the following situations:  
+#### Use a comma in the following situations:  
 
 At the beginning of a sentence, after any form of single-word parenthetical.  
+E.g. Now, how did you find the room?  
+Well, that went well.  
+Oh, I see you're wearing red too.    
+Then, like, we just took off.  
 
-Examples:  
-mwwex: Well, it was certainly enough to frighten all of us.  
-Oh, there were probably 15 of us.  
-Gee, it was five or six weeks later.  
-
-Then, like, we never did get to go on those trips.  
-Now, did you accompany him to tha bank that day?  
-You know, like, he was just a jerk.  
-
-After an introductory prepositional phrase that contains a dependent clause.   
+After an introductory prepositional phrase that contains a dependent clause.  
+E.g. For all I know, they drove south.  
 
 After an introductory prepositional phrase that contains an adverb clause.  
+E.g. If necessary, finish it now.  
 
-After an introductory prepositional phrase that contains a verbal.  (Phrases with a gerund, participle, or infinitive)
-After a long (four or five words)  prepositional phrase at the front of the sentence.  
+After an introductory prepositional phrase that contains a verbal.  (Phrases with a gerund, participle, or infinitive)  
+E.g. After reaching a verdict, please return to this courtroom.   
 
-But do not use a comma after a short prepositional phrase a the beginning of a sentence.  
+After a long (four or five words) prepositional phrase at the front of the sentence.  
+E.g. In the very late afternoon, the sun came out.  
+
+But do not use a comma after a short prepositional phrase at the beginning of a sentence.  
+E.g. In the afternoon it started to snow.  
 
 Also, use a comma if there are two or more prepositional phrases at the beginning.  
 
 And use a comma after an introductory prepositional phrase if it has commas inside it.  
 
-Use a comma when the introductory element could not possibly start a new conversation.  
+Use a comma when the introductory element **could not possibly start a new conversation**.  
+E.g. In conclusion, let's go over the party list.  
 
 When the introductory phrase is parenthetical.  
-
-Examples:
-mwwex: 
-In conclusion, I want to point out the circumstances around this incident.  
-However, he had to get his marriage anulled before he could move forward.  
-For all I know, he could be anywhere now.
-In the afternoon we saw her again.  
-By the way, he often took naps even though he was supposed to be working.  
-In the very late afternoon, we saw her again.  
-If necessary, finish it now.  
-When he arrived, he went straight to work.  
-After reaching a verdit, you will return to this courtroom.   
-On the afternoon of the 12th, we saw her again.  
-For long, long periods, she did not speak to anyone outside the family.  
+E.g. By the way, do you smoke?  
 
 Anytime for clarity.  
-
-mwwex: Before, he worked for charity.  
-I think not, since he has to be here anyway.  
+E.g. Before, they were married.  
+I think not, for five of us were there.    
 
 <br/>
-Do not use a comma here:
--- When two sets of subjects and verbs share a common element.
-E.g. The company needs to know and the state needs to know what services are provided to these clients.
+Do not use a comma here:  
+When two sets of subjects and verbs share a common element.  
+E.g. The boss needs to know and I need to know what time you got here.  
+
+When single words or short word groups begin the sentence.  
+E.g. Recently he's been fine.  
+In late fall we decided to move.  
+Yesterday evening it started snowing.  
 
 <br/>  
 
-### Comma with "yet" -- see [here]({{site.baseurl}}/structures/conjunctive-adverb/#comma-before-yet)  
+Random examples of comma use:  
+Before and after the year -- or NOT -- when only month and year are written.  
+E.g. The gig in March 2018 was good fun.  
+After what happened in February, 1999, the calls for appeal wained.  
+
+With city or state plus the Zip code, keep them as a unit and surround with commas. However if a city-state unit, with or without a Zip code is an adjective, a comma is optional before the noun it modifies.  
+E.g. This tastes like a New York, New York pizza.  
+
+Washington, D.C.  
+
+#### Comma with "yet" -- see [here]({{site.baseurl}}/structures/conjunctive-adverb/#comma-before-yet)   
+
+edit
 
 ---
 
