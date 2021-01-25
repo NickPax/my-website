@@ -20,6 +20,9 @@ The place where he ususally hides it is *behind the refrigerator*. (subject comp
 
 Sometimes you can place an implied noun in front of the prepositional phrase: (A spot) behind the refrigerator ...
 
+QUERY:  
+Inside this remarkable package lies the embryo of the flower.  
+No comma after phrase. Correct?
 
 <br/>
 <br/>
