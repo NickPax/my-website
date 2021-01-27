@@ -15,6 +15,9 @@ Answers question **when? where? why? how?**
 
 mwwex: I sent that email so that she and I could maybe talk about the problem.  
 
+![M]({{site.baseurl}}/_structures/Marc_on_VR.jpg)
+
+
 Always begins with a subordinate conjunction.  
 
 #### Comma Talk  
