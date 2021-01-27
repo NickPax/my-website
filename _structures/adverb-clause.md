@@ -1,9 +1,13 @@
 ---
 layout: structure
 title: The adverb clause
+published: true
 ---
 
 Answers question **when? where? why? how?**    
+
+![This is the alt text stuff]({{site.baseurl}}/_structures/A2AD1D56-90DC-44D1-9B5D-06727F99D3B6.jpeg)
+
 
 mwwex: I sent that email so that she and I could maybe talk about the problem.  
 
