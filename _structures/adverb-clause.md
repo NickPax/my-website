@@ -12,6 +12,7 @@ Answers question **when? where? why? how?**
 
 ![Alt]({{site.baseurl}}/_structures/Stenographer%20.png)![Stenographer .png]({{site.baseurl}}/_structures/Stenographer .png)  
 
+![Marc]({{site.baseurl}}/_structures/Marc_on_VR.jpg)
 
 
 
