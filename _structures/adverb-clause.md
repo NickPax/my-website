@@ -1,12 +1,12 @@
 ---
 layout: structure
-title: The adverb clause
+title: 'The adverb clause '
 published: true
 ---
 
 Answers question **when? where? why? how?**    
 
-
+![Hi]({{site.baseurl}}/_structures/images%3AStenographer%20.png)
 
 ![Yo]({{site.baseurl}}/_structures/images%3AStenographer%20.png)
 
