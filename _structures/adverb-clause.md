@@ -6,8 +6,9 @@ published: true
 
 Answers question **when? where? why? how?**    
 
-![Alt]({{site.baseurl}}/_structures/images%3AStenographer%20.png)![images:Stenographer .png]({{site.baseurl}}/_structures/images:Stenographer .png)
 
+
+![Yo]({{site.baseurl}}/_structures/images%3AStenographer%20.png)
 
 
 
