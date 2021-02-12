@@ -75,7 +75,7 @@ title: Blue Pearls 2
     display: grid;
     grid-gap: 9px;
     /*grid-template-columns: auto auto;*/
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(500px, 320px, 1fr));
     grid-template-rows: repeat(6, 200px);
     grid-auto-flow: dense;
     background-color: #2196F3;
