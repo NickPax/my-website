@@ -18,7 +18,6 @@ title: Blue Pearls 1
   <div class="grid-item"><img src="assets/images/blue2/c6.jpg" alt="transcript-correction-snippit"></div>  
   <div class="grid-item"><img src="assets/images/blue2/c7.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c8.jpg" alt="transcript-correction-snippit"></div>
-  
 
   <div class="grid-item"><img src="assets/images/blue2/c9.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c10.jpg" alt="transcript-correction-snippit"></div>
