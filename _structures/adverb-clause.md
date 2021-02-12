@@ -6,17 +6,7 @@ published: true
 
 Answers question **when? where? why? how?**    
 
-![Hi]({{site.baseurl}}/_structures/images%3AStenographer%20.png)
-
-![Yo]({{site.baseurl}}/_structures/images%3AStenographer%20.png)
-
-
-
-
 mwwex: I sent that email so that she and I could maybe talk about the problem.  
-
-![M]({{site.baseurl}}/_structures/Marc_on_VR.jpg)
-
 
 Always begins with a subordinate conjunction.  
 
