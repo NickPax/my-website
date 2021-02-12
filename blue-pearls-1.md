@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Caitlin's blue pearls of wisdom 2
+title: Blue Pearls 1
 ---  
 
 
 
-<h1>These are some of Caitlin's annotations taken from about PT #20 onwards:</h1>
+<h1>These are some of Caitlin's annotations taken from the first 20 annotated transcripts:</h1>
 
 <br/>
 
