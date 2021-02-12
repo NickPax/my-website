@@ -22,7 +22,7 @@ title: Blue Pearls 1
 
   <div class="grid-item"><img src="assets/images/blue2/c9.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c10.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c11.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c1.jpg" alt="transcript-correction-snippit"></div>  
   <div class="grid-item"><img src="assets/images/blue2/c12.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c13.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c14.jpg" alt="transcript-correction-snippit"></div>  
@@ -65,7 +65,6 @@ title: Blue Pearls 1
   <div class="grid-item"><img src="assets/images/blue2/c47.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c48.jpg" alt="transcript-correction-snippit"></div>
 
-
   </div>
 
 
@@ -75,7 +74,7 @@ title: Blue Pearls 1
     display: grid;
     grid-gap: 9px;
     /*grid-template-columns: auto auto;*/
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200, 500px, 1fr));
     grid-template-rows: repeat(6, 200px);
     grid-auto-flow: dense;
     background-color: #2196F3;
