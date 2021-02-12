@@ -5,8 +5,6 @@ published: true
 ---
 
 
-![images:View .jpeg]({{site.baseurl}}/_structures/images:View .jpeg)
-
 It's something that renames something else.  
 e.g. The boss, Brian, was kind.  
 So when the appositive immediately follows the word that it renames (in the above case, boss) use a comma. However, if the appositive is very short, no commas are necessary (if readability is fine):    
