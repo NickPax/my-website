@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Caitlin's blue pearls of wisdom
+title: Caitlin's blue pearls of wisdom 2
 ---  
 
 
 
-<h1>These are notes taken from about PT #25</h1>
+<h1>These are some of Caitlin's annotations taken from about PT #20 onwards:</h1>
 
 <br/>
 
@@ -28,6 +28,44 @@ title: Caitlin's blue pearls of wisdom
   <div class="grid-item"><img src="assets/images/blue2/c14.jpg" alt="transcript-correction-snippit"></div>  
   <div class="grid-item"><img src="assets/images/blue2/c15.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c16.jpg" alt="transcript-correction-snippit"></div>
+
+  <div class="grid-item"><img src="assets/images/blue2/c17.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c18.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c19.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c20.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c21.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c22.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c23.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c24.jpg" alt="transcript-correction-snippit"></div>
+
+  <div class="grid-item"><img src="assets/images/blue2/c25.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c26.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c27.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c28.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c29.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c30.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c31.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c32.jpg" alt="transcript-correction-snippit"></div>
+
+  <div class="grid-item"><img src="assets/images/blue2/c33.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c34.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c35.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c36.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c37.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c38.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c39.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c40.jpg" alt="transcript-correction-snippit"></div>
+
+  <div class="grid-item"><img src="assets/images/blue2/c41.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c42.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c43.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c44.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c45.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c46.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c47.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c48.jpg" alt="transcript-correction-snippit"></div>
+
+
   </div>
 
 
