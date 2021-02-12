@@ -22,48 +22,48 @@ title: Blue Pearls 2
 
   <div class="grid-item"><img src="assets/images/blue2/c9.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c10.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c11.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c12.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c13.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c14.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c15.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c16.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c11.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c12.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c13.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c14.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c15.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c16.JPG" alt="transcript-correction-snippit"></div>
 
-  <div class="grid-item"><img src="assets/images/blue2/c17.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c18.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c19.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c20.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c21.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c22.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c23.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c24.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c17.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c18.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c19.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c20.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c21.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c22.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c23.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c24.JPG" alt="transcript-correction-snippit"></div>
 
-  <div class="grid-item"><img src="assets/images/blue2/c25.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c26.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c27.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c28.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c29.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c30.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c31.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c32.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c25.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c26.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c27.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c28.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c29.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c30.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c31.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c32.JPG" alt="transcript-correction-snippit"></div>
 
-  <div class="grid-item"><img src="assets/images/blue2/c33.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c34.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c35.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c36.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c37.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c38.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c39.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c40.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c33.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c34.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c35.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c36.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c37.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c38.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c39.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c40.JPG" alt="transcript-correction-snippit"></div>
 
-  <div class="grid-item"><img src="assets/images/blue2/c41.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c42.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c43.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c44.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c45.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c46.jpg" alt="transcript-correction-snippit"></div>  
-  <div class="grid-item"><img src="assets/images/blue2/c47.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c48.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c41.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c42.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c43.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c44.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c45.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c46.JPG" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c47.JPG" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c48.JPG" alt="transcript-correction-snippit"></div>
 
 
   </div>

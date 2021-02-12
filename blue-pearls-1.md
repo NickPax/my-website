@@ -10,7 +10,7 @@ title: Blue Pearls 1
 <br/>
 
 <div class="grid-container">
-  <div class="grid-item"><img src="assets/images/blue2/c11.jpg" alt="transcript-correction-snippit"></div>
+  <div class="grid-item"><img src="assets/images/blue2/c1.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c2.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c3.jpg" alt="transcript-correction-snippit"></div>  
   <div class="grid-item"><img src="assets/images/blue2/c4.jpg" alt="transcript-correction-snippit"></div>
@@ -22,7 +22,7 @@ title: Blue Pearls 1
 
   <div class="grid-item"><img src="assets/images/blue2/c9.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c10.jpg" alt="transcript-correction-snippit"></div>
-  <div class="grid-item"><img src="assets/images/blue2/c1.jpg" alt="transcript-correction-snippit"></div>  
+  <div class="grid-item"><img src="assets/images/blue2/c11.jpg" alt="transcript-correction-snippit"></div>  
   <div class="grid-item"><img src="assets/images/blue2/c12.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c13.jpg" alt="transcript-correction-snippit"></div>
   <div class="grid-item"><img src="assets/images/blue2/c14.jpg" alt="transcript-correction-snippit"></div>  
