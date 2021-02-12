@@ -1,6 +1,7 @@
 ---
 layout: structure
-title: The adverb clause
+title: 'The adverb clause '
+published: true
 ---
 
 Answers question **when? where? why? how?**    

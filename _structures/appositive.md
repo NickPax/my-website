@@ -1,8 +1,8 @@
 ---
 layout: structure
 title: The appositive
+published: true
 ---
-
 
 
 It's something that renames something else.  
@@ -60,4 +60,3 @@ E.g. They followed a strict schedule of days: that is [or i.e.], Monday, Wednesd
 
 If there is a parenthetical in the middle of the sentence before an appositive list, use dashes, and a comma after the parenthetical:  
 E.g. The notes she tried to hit -- that is, top C, D, and F -- were just too high.
-
