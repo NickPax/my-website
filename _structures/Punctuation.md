@@ -4,6 +4,7 @@ title: Punctuation
 ---
 
 [Abbreviations]({{site.baseurl}}/structures/abbreviations)  
+[Capitalization]({{site.baseurl}}/structures/capitalization)  
 [Comma]({{site.baseurl}}/structures/the-comma)  
 [Dashes]({{site.baseurl}}/structures/dashes)  
 [Hyphen]({{site.baseurl}}/structures/hyphens)  
