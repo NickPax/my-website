@@ -135,7 +135,7 @@ See "Video 033: Punctuation Rules: Numbers Part 3" above.
 
 ## Plural of capitalized abbreviation {#eight} 
 
-|BGGP|LMEG|GRM|
+|BGGP|LMEG|
 |Add an s (TVs) or apostrophe s (TV's). |Add an s (TVs).|
 
 {% include youtube.html id='tmuMi-lEixk' %} 
