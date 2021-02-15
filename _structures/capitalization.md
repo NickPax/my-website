@@ -26,7 +26,17 @@ Cap President, Vice President, Senato, Attorney General, etc when at national le
 Can vary depending on region.  
 
 
-*Plaintiff* and *defendant* are capped when referring to the case at hand. [BGGP differs from this and does not cap, e.g., *defendant* even if in relation to the case at hand.]  Also this is court reporter preference.
+*Plaintiff* and *defendant* are capped when referring to the case at hand (PA Rule 10 Module 2). [BGGP differs from this and does not cap, e.g., *defendant* even if in relation to the case at hand.]  
+Morson's Rule 266 Example b: *Ladies and gentlemen of the jury, this defendant is charged with burglary.* [Does not say *the* defendant.]
+Also this is court reporter preference.  
+
+Regarding the word *defense*:
+
+![From PA Module 2]({{ site.baseurl }}/assets/images/cap defense.jpg)  
+
+---   
+
+<br/> 
 
 Capitalize *court* only when it refers to a judge.  
 E.g. There will be a Court ruling in 20 minutes.  
@@ -40,10 +50,12 @@ Only capitalize *counsel* in direct address and as a name title.
 
 Only capitalize *district attorney*  when it refers to the political entity, not to a local office or deputy. The single elected official for a jurisdiction should be capped.  
 
-Regarding the word *state*  
+Regarding the word *state*:  
 Unless it is written with the actual state, e.g., *State of Florida*, it should be uncapped.  
 However, it is, again, **reporter preference**.  
-Please note *state* can be capped by itself when they are a party to the lawsuit (BGGP Capitalization 53, but Morson's 222 says it should not be capped.)
+Please note *state* can be capped by itself when they are a party to the lawsuit (BGGP Capitalization 53, but Morson's 222 says it should not be capped.)  
+
+![From MHC website]({{ site.baseurl }}/assets/images/margie-caps.jpg)
 
 
 

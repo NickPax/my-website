@@ -64,7 +64,9 @@ Washington, D.C.
 
 #### Comma with "yet" -- see [here]({{site.baseurl}}/structures/conjunctive-adverb/#comma-before-yet)   
 
-edit
+##Commas and direct address  [*******TODO*******]
+
+![Direct address]({{ site.baseurl }}/assets/images/direct-address-comma.jpg)
 
 ---
 
