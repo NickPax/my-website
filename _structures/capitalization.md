@@ -32,7 +32,7 @@ Also this is court reporter preference.
 
 Regarding the word *defense*:
 
-![From PA Module 2]({{ site.baseurl }}/assets/images/cap defense.jpg)  
+![From PA Module 2]({{ site.baseurl }}/assets/images/cap defense.JPG)  
 
 ---   
 
@@ -55,7 +55,7 @@ Unless it is written with the actual state, e.g., *State of Florida*, it should 
 However, it is, again, **reporter preference**.  
 Please note *state* can be capped by itself when they are a party to the lawsuit (BGGP Capitalization 53, but Morson's 222 says it should not be capped.)  
 
-![From MHC website]({{ site.baseurl }}/assets/images/margie-caps.jpg)
+![From MHC website]({{ site.baseurl }}/assets/images/margie-caps.JPG)
 
 
 
