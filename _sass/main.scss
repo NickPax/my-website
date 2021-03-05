@@ -9,6 +9,13 @@ body {
   font-family: $bodyFont;
 } 
 
+/*
+font-family: 'Fascinate', cursive;
+font-family: 'Lato', sans-serif;
+*/
+
+
+
 .green {
   color: green;
 }
@@ -113,4 +120,40 @@ rgba(255, 255, 255, 0) 100%
   &:visited {
     text-decoration: none;
   }
+}
+.custom-site-footer { 
+  border-top: 1px solid #e8e8e8; 
+  padding: 5px 0; 
+}
+
+.material-icons.green600 { 
+  color: #acd69f; 
+}
+
+.btn green123 {
+  color :#acd69f;
+}
+
+.material-icons.md-48 { 
+  font-size: 48px; 
+}
+
+.material-icons.md-64 { 
+  font-size: 64px; 
+}
+
+
+.navbar navbar-expand-lg navbar-light { 
+  margin-left: 0px !important
+}
+
+.navbar-brand {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  float: left;
 }

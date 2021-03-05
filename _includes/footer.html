@@ -5,7 +5,7 @@
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
+    <div class="footer-col-wrapper pl-0 pr-0">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
@@ -25,11 +25,17 @@
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-3 pl-2 pr-0 py-0">
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
 
   </div>
 
+  <!-- jQuery library 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+-->
+<!-- Latest compiled JavaScript 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+-->
 </footer>
