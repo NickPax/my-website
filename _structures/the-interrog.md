@@ -23,11 +23,11 @@ Do you remember? Where did she go later that day?
  
 * compare these:  
 
-I'm asking you this: When did you return?
+I'm asking you this: When did you return?  
 I'm asking you when did you return.  
 
 Let me put it this way: Why did you return?  
-My question is why did you return. -- contravercial amoung authorities, but MWW says it follows the grammatical rules.  
+My question is why did you return. -- contraversial among authorities, but MWW says it follows the grammatical rules.  
 
 
 MWW says the following construction is a matter of personal choice:  
