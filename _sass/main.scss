@@ -121,6 +121,29 @@ rgba(255, 255, 255, 0) 100%
     text-decoration: none;
   }
 }
+
+.footer-btn-item {
+  font-size: calc(8pt + 0.15vw);
+  padding-top: calc(0.5em + 0.08vw);
+  padding-bottom: calc(0.5em + 0.08vw);
+  padding-left: calc(0.5em + 0.08vw);
+  padding-right: calc(0.5em + 0.08vw);
+  color: #acd69f;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 1px solid white;
+  background-color: white;
+
+  &:link {
+    text-decoration: none;
+  }
+
+  &:visited {
+    text-decoration: none;
+  }
+}
+
 .custom-site-footer { 
   border-top: 1px solid #e8e8e8; 
   padding: 5px 0; 
@@ -156,4 +179,14 @@ rgba(255, 255, 255, 0) 100%
   padding-bottom: 0;
   padding-top: 0;
   float: left;
+}
+
+.my-wrapper {
+padding-right: 0.5em;
+padding-left: 0.5em;
+}
+
+
+.banner-btn a:link{
+  color:#942a44 !important;
 }
