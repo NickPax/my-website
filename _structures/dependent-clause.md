@@ -138,7 +138,7 @@ And when an adverb clause comes after another adverb clause at the end of a sent
 
 Example:  
 
-Mr Brigstock was looking confident as he praticed the riff before going on stage.
+Mr Brigstock was looking confident as he practiced the riff before going on stage.
 
 HOWEVER ...  
 
