@@ -12,9 +12,9 @@ image: /assets/images/Textbook.jpg
 
 <br/>
 
-<div>
+<p class="frontpage-p">
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut.
-</div>
+</p>
 
 <br/>
 
