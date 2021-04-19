@@ -6,14 +6,19 @@ body {
  
   background: $backgroundColor;
   color: $bodyColor;
-  font-family: $bodyFont;
+  font-family: 'Montserrat';
+  font-style: normal;
 } 
 
-/*
-font-family: 'Fascinate', cursive;
-font-family: 'Lato', sans-serif;
-*/
+@font-face {
+  font-family:'Montserrat';
+  src: url(montserrat-v15-latin-regular.ttf);
+}P
 
+@font-face {
+  font-family:'Open-sans';
+  src: url(open-sans-v18-latin-300.ttf);
+}∏
 
 
 .green {
@@ -172,6 +177,7 @@ rgba(255, 255, 255, 0) 100%
 
 .navbar-brand {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-family: 'Montserrat';
   font-size: 26px;
   font-weight: 300;
   letter-spacing: -1px;
@@ -184,6 +190,23 @@ rgba(255, 255, 255, 0) 100%
 .my-wrapper {
 padding-right: 0.5em;
 padding-left: 0.5em;
+}
+
+
+.my-footer-wrapper {
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.frontpage-p{
+padding-right: 0.5em;
+padding-left: 0.5em;
+
+font-family: Open-sans;
+font-weight: 300;
 }
 
 
